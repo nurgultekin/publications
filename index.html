@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .section-publications {
+            padding: 20px;
+        }
+
+        .filters {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+
+        .publications-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .publication-item {
+            display: flex;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+
+        .publication-item .year {
+            width: 50px;
+            text-align: center;
+            font-weight: bold;
+            color: #fff;
+            background-color: #000000;
+            padding: 10px;
+        }
+
+        .publication-item .details {
+            margin-left: 20px;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            font-family: "Roboto";
+        }
+
+        .pagination button {
+            margin: 0 10px;
+            padding: 10px 10px;
+            background-color: #000000;
+            color: #fff;
+            font-family: "Roboto";
+        }
+    </style>
+</head>
+<body>
+    <section class="section-publications">
+        <div class="filters">
+            <select id="filter-keyword">
+                <option value="">Filter by keyword</option>
+                <!-- Populate options dynamically -->
+            </select>
+            <select id="filter-author">
+                <option value="">Filter by author</option>
+                <!-- Populate options dynamically -->
+            </select>
+            <div class="show-options">
+                Show:
+                <input type="radio" name="show" value="10" checked> 10
+                <input type="radio" name="show" value="20"> 20
+                <input type="radio" name="show" value="all"> All
+            </div>
+            <div class="publication-count">
+                Publications: <span id="publication-count">0</span>
+            </div>
+        </div>
+        <ol role="list" class="publications-list"></ol>
+        <div class="pagination">
+            <button id="prev-page">Prev</button>
+            <span id="page-info">Page 1 of 1</span>
+            <button id="next-page">Next</button>
+        </div>
+    </section>
+
+    <script>
+        let publications = [];
+        let currentPage = 1;
+        let itemsPerPage = 10;
+
+        const publicationList = document.querySelector('.publications-list');
+        const filterKeyword = document.getElementById('filter-keyword');
+        const filterAuthor = document.getElementById('filter-author');
+        const publicationCount = document.getElementById('publication-count');
+        const pageInfo = document.getElementById('page-info');
+
+        fetch('https://raw.githubusercontent.com/nurgultekin/publications/main/publications.json')
+          .then(response => response.json())
+          .then(data => {
+            publications = data.publications; // Assign data to the publications array
+            console.log(publications); // Check if data is being fetched
+            populateFilters();
+            renderPublications();
+            updateCount();
+            updatePageInfo();
+          })
+          .catch(error => {
+            console.error('Error fetching the JSON data:', error);
+          });
+
+        function populateFilters() {
+          const keywords = [...new Set(publications.flatMap(pub => pub.keywords))];
+          const authors = [...new Set(publications.flatMap(pub => pub.authors))];
+          
+          filterKeyword.innerHTML = '<option value="">Filter by keyword</option>'; // Reset options
+          filterAuthor.innerHTML = '<option value="">Filter by author</option>'; // Reset options
+
+          keywords.forEach(keyword => {
+            const option = document.createElement('option');
+            option.value = keyword;
+            option.textContent = keyword;
+            filterKeyword.appendChild(option);
+          });
+
+          authors.forEach(author => {
+            const option = document.createElement('option');
+            option.value = author;
+            option.textContent = author;
+            filterAuthor.appendChild(option);
+          });
+        }
+
+        function renderPublications() {
+          publicationList.innerHTML = '';
+
+          const filteredPublications = filterPublications();
+          const paginatedPublications = paginatePublications(filteredPublications);
+
+          paginatedPublications.forEach(pub => {
+            const listItem = document.createElement('li');
+            listItem.innerHTML = `
+              <div class="publication-item">
+                <div class="year">${pub.year}</div>
+                <div class="details">
+                  <h4>${pub.title}</h4>
+                  <p>${pub.authors.join(', ')}</p>
+                  <p>${pub.journal}</p>
+                  <p>${pub.keywords.join(', ')}</p>
+                </div>
+              </div>
+            `;
+            publicationList.appendChild(listItem);
+          });
+          updatePageInfo();
+        }
+
+        function filterPublications() {
+          const keyword = filterKeyword.value;
+          const author = filterAuthor.value;
+
+          return publications.filter(pub => {
+            return (!keyword || pub.keywords.includes(keyword)) && 
+                   (!author || pub.authors.includes(author));
+          });
+        }
+
+        function paginatePublications(items) {
+          const startIndex = (currentPage - 1) * itemsPerPage;
+          return items.slice(startIndex, startIndex + itemsPerPage);
+        }
+
+        function updateCount() {
+          publicationCount.textContent = filterPublications().length;
+        }
+
+        function updatePageInfo() {
+          const totalPages = Math.ceil(filterPublications().length / itemsPerPage);
+          pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+        }
+
+        filterKeyword.addEventListener('change', () => {
+          currentPage = 1;
+          renderPublications();
+          updateCount();
+        });
+
+        filterAuthor.addEventListener('change', () => {
+          currentPage = 1;
+          renderPublications();
+          updateCount();
+        });
+
+        document.querySelector('.show-options').addEventListener('change', (e) => {
+          itemsPerPage = e.target.value === 'all' ? publications.length : parseInt(e.target.value);
+          currentPage = 1;
+          renderPublications();
+          updateCount();
+        });
+
+        document.getElementById('prev-page').addEventListener('click', () => {
+          if (currentPage > 1) {
+            currentPage--;
+            renderPublications();
+            updatePageInfo();
+          }
+        });
+
+        document.getElementById('next-page').addEventListener('click', () => {
+          const totalPages = Math.ceil(filterPublications().length / itemsPerPage);
+          if (currentPage < totalPages) {
+            currentPage++;
+            renderPublications();
+            updatePageInfo();
+          }
+        });
+    </script>
+</body>
+</html>
