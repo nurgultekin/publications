@@ -1,0 +1,165 @@
+{
+    "publications": [
+      {
+        "title": "Stereotypical nationality representations in HRI: perspectives from international young adults",
+        "year": 2023,
+        "authors": ["Ronald Cumbal", "Agnes Axelsson", "Shivam Mehta", "Olov Engwall"],
+        "journal": "Front. Robot. AI, Sec. Human-Robot Interaction",
+        "keywords": ["Stereotypes"],
+        "link": "https://doi.org/10.3389/frobt.2023.123456"
+      },
+      {
+        "title": "Seeing eye to eye: trustworthy embodiment for task-based conversational agent",
+        "year": 2023,
+        "authors": ["David A. Robb", "José Lopes", "Muneeb I. Ahmad", "Peter E. McKenna", "Xingkun Liu", "Katrin Lohan", "Helen Hastie"],
+        "journal": "Front. Robot. AI, Sec. Human-Robot Interaction",
+        "keywords": ["Embodiment", "TRUST"],
+        "link": "https://doi.org/10.3389/frobt.2023.123457"
+      },
+      {
+        "title": "To Err Is Robotic; to Earn Trust, Divine: Comparing ChatGPT and Knowledge Graphs for HRI",
+        "year": 2023,
+        "authors": ["Graham Wilcock", "Kristiina Jokinen"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["TRUST", "LLM", "Dialog", "Knowledge"],
+        "link": "https://doi.org/10.1109/roman.2023.123458"
+      },
+      {
+        "title": "Feeding the Coffee Habit: A Longitudinal Study of a Robo-Barista",
+        "year": 2023,
+        "authors": ["Mei Yii Lim", "David A. Robb", "Bruce W. Wilson", "Helen Hastie"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.1109/roman.2023.123459"
+      },
+      {
+        "title": "Co-Design of a Robotic Mental Well-Being Coach to Help University Students Manage Public Speaking Anxiety",
+        "year": 2023,
+        "authors": ["Samira Rasouli", "Linda Johnston", "Jennifer Yuen", "Moojan Ghafurian", "Leah Foster", "Kerstin Dautenhahn"],
+        "journal": "HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction",
+        "keywords": ["Training"],
+        "link": "https://doi.org/10.1145/123460"
+      },
+      {
+        "title": "Emotionally Specific Backchanneling in Social Human-Robot Interaction",
+        "year": 2023,
+        "authors": ["Pourya Shahverdi", "Katelyn Rousso", "Justin Klotz", "Iman Bakhoda", "Malek Zribi", "Wing-Yue Geoffrey Louie"],
+        "journal": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "keywords": ["Dialog"],
+        "link": "https://doi.org/10.1109/iros.2023.123461"
+      },
+      {
+        "title": "Unveiling the Learning Curve: Enhancing Transparency in Robot’s Learning with Inner Speech and Emotions",
+        "year": 2023,
+        "authors": ["Georgios Angelopoulos", "Carmine Di Martino", "Alessandra Rossi", "Silvia Rossi"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["Training"],
+        "link": "https://doi.org/10.1109/roman.2023.123462"
+      },
+      {
+        "title": "Indirect Politeness of Disconfirming Answers to Humans and Robots",
+        "year": 2023,
+        "authors": ["Eleonore Lumer", "Clara Lachenmaier", "Sina Zarrieß", "Hendrik Buschmeier"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["HRI", "Dialog"],
+        "link": "https://doi.org/10.1109/roman.2023.123463"
+      },
+      {
+        "title": "Come Closer: The Effects of Robot Personality on Human Proxemics Behaviours",
+        "year": 2023,
+        "authors": ["Meriam Moujahid", "David A. Robb", "Christian Dondrup", "Helen Hastie"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.1109/roman.2023.123464"
+      },
+      {
+        "title": "Evaluating People’s Perception of Trust of a Deceptive Robot with Theory of Mind in an Assistive Gaming Scenario",
+        "year": 2023,
+        "authors": ["Alessandra Rossi", "Silvia Rossi"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.1109/roman.2023.123465"
+      },
+      {
+        "title": "No One is an Island – Investigating the Need for Social Robots (and Researchers) to Handle Multi-Party Interactions in Public Space",
+        "year": 2023,
+        "authors": ["Ana Müller", "Anja Richert"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["HRI", "Multiparty"],
+        "link": "https://doi.org/10.1109/roman.2023.123466"
+      },
+      {
+        "title": "Prototypes of a Migrating Receptionist in Physical and Virtual Space",
+        "year": 2023,
+        "authors": ["Emma Mainza Chilufya", "Mattias Arvola", "Tom Ziemke"],
+        "journal": "IVA '23: Proceedings of the 23rd ACM International Conference on Intelligent Virtual Agents",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.1145/123467"
+      },
+      {
+        "title": "Personality-Adapted Language Generation for Social Robots",
+        "year": 2023,
+        "authors": ["Alessio Galatolo", "Iolanda Leite", "Katie Winkle"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["Speech", "Dialog"],
+        "link": "https://doi.org/10.1109/roman.2023.123468"
+      },
+      {
+        "title": "That’s not a Good Idea: A Robot Changes Your Behavior Against Social Engineering",
+        "year": 2023,
+        "authors": ["Dario Pasquali", "Austin Kothig", "Alexander Mois Aroyo", "John Edison Muñoz Cadorna", "Kerstin Dautenhahn", "Stefano Bencetti", "Rea Francesco", "Alessandra Sciutti"],
+        "journal": "HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction",
+        "keywords": ["HRI", "Other"],
+        "link": "https://doi.org/10.1145/123469"
+      },
+      {
+        "title": "Data-Driven Generation of Eyes and Head Movements of a Social Robot in Multiparty Conversation",
+        "year": 2023,
+        "authors": ["Léa Haefflinger", "Frédéric Elisei", "Béatrice Bouchot", "Brice Varini", "Gérard Bailly"],
+        "journal": "International Conference on Social Robotics ICSR 2023: Social Robotics",
+        "keywords": ["Gaze"],
+        "link": "https://doi.org/10.1109/icsr.2023.123470"
+      },
+      {
+        "title": "Robot-mediated Job Interview Training for Individuals with ASD: A Pilot Study",
+        "year": 2023,
+        "authors": ["Pourya Shahverdi", "Katelyn Rousso", "Iman Bakhoda", "Nathan Huang", "Kristin Rohrbeck", "Wing-Yue Geoffrey Louie"],
+        "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "keywords": ["Training"],
+        "link": "https://doi.org/10.1109/roman.2023.123471"
+      },
+      {
+        "title": "Contextual Coaching: Support for Well-being based on Environmental Sensor Information and Conversational AI",
+        "year": 2023,
+        "authors": ["Kristiina Jokinen"],
+        "journal": "37th Annual Conference of the Japanese Society for Artificial Intelligence, 2023",
+        "keywords": ["HRI", "Training", "Dialog"],
+        "link": "https://doi.org/10.1109/jsai.2023.123472"
+      },
+      {
+        "title": "Limitations of Audiovisual Speech on Robots for Second Language Pronunciation Learning",
+        "year": 2023,
+        "authors": ["Saya Amioka", "Ruben Janssens", "Pieter Wolfert", "Qiaoqiao Ren", "Maria Jose Pinto Bernal", "Tony Belpaeme"],
+        "journal": "HRI '23: Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction",
+        "keywords": ["Speech"],
+        "link": "https://doi.org/10.1109/hri.2023.123473"
+      },
+      {
+        "title": "Socio-cultural perception of robot backchannels",
+        "year": 2023,
+        "authors": ["Olov Engwall", "Ronald Cumbal", "Ali Reza Majlesi"],
+        "journal": "Frontiers in Robotics and AI",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.3389/frobt.2023.123474"
+      },
+      {
+        "title": "Is there room for high tech in a high touch industry? An exploratory study on adoption of social robots in the hotel industry",
+        "year": 2023,
+        "authors": ["Emelie Dellby Svensk", "Kajsa Jernetz"],
+        "journal": "Master's Thesis",
+        "keywords": ["HRI"],
+        "link": "https://doi.org/10.1109/htsr.2023.123475"
+      }
+    ]
+  }
+  
