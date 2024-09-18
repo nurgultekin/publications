@@ -328,7 +328,7 @@
               "year": 2018,
               "release-date": "2018-12-15",
               "title": "The Hindu: Robotics a big draw at techfest",
-              "link": ""
+              "link": "https://www.thehindu.com/news/cities/mumbai/robotics-a-big-draw-at-techfest/article25753850.ece"
             },
             {
               "year": 2018,
@@ -539,7 +539,171 @@
               "release-date": "2018-08-30",
               "title": "Resumé: MediaMonks’ new Swedish R&D department helps Furhat Robotics (Swedish)",
               "link": ""
-            }
+            },
+
+              {
+                "year": 2017,
+                "release-date": "2017-11-27",
+                "title": "The Times: Furhat Robotics says ‘hello’ to the acceptable face of artificial intelligence",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-11-27",
+                "title": "Daily Mail: The Mail Online brings Furhat into the spotlight in the UK",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-09-21",
+                "title": "Forbes: Disney And Intel Looking For Growth From This Stockholm Social Robot Maker",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-09-14",
+                "title": "Tech.EU: Social robotics company Furhat Robotics raises $2.5 million",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-09-14",
+                "title": "NewsCenter.io: Disney Bets on Furhat - The Social Robotics Company Closes $2.5M",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-09-14",
+                "title": "Daniel Waterhouse: “Hello Furhat”, “Hello Balderton!”",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-09-14",
+                "title": "Balderton Capital announce lead role in $2.5m seed round",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-08-22",
+                "title": "SverigesRadio: Konstgjord kommunikation förfinas (Swedish)",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-08-17",
+                "title": "Stockholms Universitet: Talkommunikation mellan människa och maskin i fokus på internationell konferens (Swedish)",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-03-16",
+                "title": "New Scientist: Furhat robot's impact on gender participation inequalities",
+                "link": ""
+              },
+              {
+                "year": 2017,
+                "release-date": "2017-01-03",
+                "title": "Daily Planet: Furhat robot has got personality",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-09-12",
+                "title": "EIT Digital: The human face of AI visits Silicon Valley with EIT Digital",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-08-20",
+                "title": "Robothoved med pelshat vil være din digitale ven (Danish)",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-07-11",
+                "title": "Sputnik News: Social Robot to Help Senile Swedes Struggling With Dementia",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-07-07",
+                "title": "Dagens Nyheter: Social robot ska upptäcka demens tidigare (Swedish)",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-07-05",
+                "title": "Breakit: Damberg, fester och bostadsbrist – här är snackisarna och skvallret i Almedalen (Swedish)",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-07-04",
+                "title": "Expressen TV: Furhat showcases its first robot replica of a Swedish minister",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-05-13",
+                "title": "TrendHunter: The Furhat Robot Mimics Physical and Verbal Interactions",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-05-13",
+                "title": "PSFK: Furhat is picked up by FPSK, an innovation insight newsletter",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-05-11",
+                "title": "Simon Mainwaring, We First Blog: What happens when the voice of your brand is a humanoid robot?",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-05-04",
+                "title": "Viva100: Furhat featured in the South Korean news website Viva 100 (Korean)",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-04-27",
+                "title": "Mic.com: Can You Look This Robot in the Eye Without Losing Your Sh*t?",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-04-27",
+                "title": "Bloomberg: Hello World - This robot will take your face",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-04-03",
+                "title": "Dagens Nyheter: Roboten Furhat redo att inta klassrummen",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-03-14",
+                "title": "Forbes: From Emotive Heads To Google's Atlas, Our Relationship With Robots Is Changing",
+                "link": ""
+              },
+              {
+                "year": 2016,
+                "release-date": "2016-01-27",
+                "title": "MobileStories: Säg hej till din nya extralärare (Swedish)",
+                "link": ""
+              },
+              {
+                "year": 2014,
+                "release-date": "2014-06-11",
+                "title": "Aftonbladet: Robots can take over our jobs (Swedish)",
+                "link": ""
+              }
+    
           
       ]
       
