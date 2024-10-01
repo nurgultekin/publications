@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -56,6 +57,8 @@
             font-family: "Roboto";
         }
     </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
   <section>
@@ -121,250 +124,86 @@
 <script src="https://www.youtube.com/iframe_api"></script>
 
 <script>
-  // YouTube player variables
+   // YouTube player variables
+   let players = [];
+    let allVideos;
+    let currentPlayer = null;
 
-  let players = [];
-  let allVideos;
-  let currentPlayer = null;
+    // YouTube API Key (optional)
+    const apiKey = "AIzaSyDLQJ-Ods5185Czzt_CcDakUK89ANKrHOM"; // Use only if needed for API calls
 
-  
-  const videoIDs = ['Video1', 'Video2', 'Video3', 'Video4', 'Video5', 'Video6'];  // Replace these with actual video IDs
+    const videoIDs = ['Video1', 'Video2', 'Video3', 'Video4', 'Video5', 'Video6'];  // Replace these with actual video IDs
 
-  function pauseVideo(element) {
-    let iframe = element.querySelector('iframe');
-    let video = element.querySelector('video');
+    // Initialize YouTube IFrame API for each iframe video
+    function onYouTubeIframeAPIReady() {
+        allVideos = $('.video-slide-item iframe');  // Target all the iframe videos
 
-    if (iframe) {
-      let iframeSrc = iframe.src;
-      iframe.src = iframeSrc;
+        allVideos.each(function(index) {
+            // Initialize YouTube Player for each video
+            players[index] = new YT.Player($(this).attr('id'), {
+                events: {
+                    'onStateChange': onPlayerStateChange
+                }
+            });
 
+            // Save the YouTube player instance in the data attribute
+            $(this).data('player', players[index]);
+        });
     }
-    if (video) {
-      video.pause();
-    }
 
-  } 
-  // Initialize YouTube IFrame API for each iframe video
-  function onYouTubeIframeAPIReady() {
-    allVideos = $('.video-slide-item iframe');  // Target all the iframe videos
-
-    allVideos.each(function(index) {
-      // Initialize YouTube Player for each video
-      players[index] = new YT.Player($(this).attr('id'), {
-        events: {
-          'onStateChange': onPlayerStateChange
+    // Function to handle state change (pause other videos if one starts playing)
+    function onPlayerStateChange(event) {
+        if (event.data === YT.PlayerState.PLAYING) {
+            if (currentPlayer && currentPlayer !== event.target) {
+                currentPlayer.pauseVideo();  // Pause the currently playing video
+            }
+            currentPlayer = event.target;
         }
-      });
+    }
 
-      // Save the YouTube player instance in the data attribute
-      $(this).data('player', players[index]);
+    // Handle click on video containers to open overlay and play/pause videos
+    $(document).ready(function() {
+        $('.video-slide-item').click(function () {
+            const clickedPlayer = $(this).find('iframe').data('player');  // Get the YouTube player object for the clicked video
+
+            // Extract video ID from the src attribute
+            const videoId = $(this).find('iframe').attr('src').split('/')[4];
+            
+            // Open the overlay with the video
+            openOverlay(videoId);
+
+            // Pause all other videos
+            allVideos.each(function () {
+                let otherPlayer = $(this).data('player');
+                if (otherPlayer !== clickedPlayer) {
+                    otherPlayer.pauseVideo();
+                }
+            });
+
+            // Play or pause the clicked video
+            if (clickedPlayer.getPlayerState() === YT.PlayerState.PLAYING) {
+                clickedPlayer.pauseVideo();
+            } else {
+                clickedPlayer.playVideo();
+            }
+        });
     });
-  }
 
-  // Function to handle state change (pause other videos if one starts playing)
-  function onPlayerStateChange(event) {
-    if (event.data === YT.PlayerState.PLAYING) {
-      if (currentPlayer && currentPlayer !== event.target) {
-        currentPlayer.pauseVideo();  // Pause the currently playing video
-      }
-      currentPlayer = event.target;
+    // Function to open video in an overlay
+    function openOverlay(videoId) {
+        $('#video-overlay').show().html(`
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}?autoplay=1" frameborder="0" allowfullscreen></iframe>
+        `);
     }
-  }
 
-  // Handle click on video containers to open overlay and play/pause videos
-  $(document).ready(function() {
-    $('.video-slide-item').click(function () {
-      const clickedPlayer = $(this).find('iframe').data('player');  // Get the YouTube player object for the clicked video
-
-      // Pause all other videos
-      allVideos.each(function () {
-        let otherPlayer = $(this).data('player');
-        if (otherPlayer !== clickedPlayer) {
-          otherPlayer.pauseVideo();
+    // Close overlay when clicking the close button
+    $(document).on('click', '#overlay-close', function () {
+        $('#video-overlay').hide().empty();
+        // Optionally pause the current video when closing
+        if (currentPlayer) {
+            currentPlayer.pauseVideo();
         }
-      });
-
-      // Play or pause the clicked video
-      if (clickedPlayer.getPlayerState() === YT.PlayerState.PLAYING) {
-        clickedPlayer.pauseVideo();
-      } else {
-        clickedPlayer.playVideo();
-      }
     });
-  });
-
-  // Function to open video in an overlay
-  function openOverlay(videoId) {
-    $('#video-overlay').show().html(`
-      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}?autoplay=1" frameborder="0" allowfullscreen></iframe>
-    `);
-  }
-
-  // Close overlay when clicking the close button
-  $('#overlay-close').click(function () {
-    $('#video-overlay').hide().empty();
-  });
-</script>
-
-  </section>
-    <section class="section-publications">
-        <div class="filters">
-            <select id="filter-keyword">
-                <option value="">Filter by keyword</option>
-                <!-- Populate options dynamically -->
-            </select>
-            <select id="filter-author">
-                <option value="">Filter by author</option>
-                <!-- Populate options dynamically -->
-            </select>
-            <div class="show-options">
-                Show:
-                <input type="radio" name="show" value="10" checked> 10
-                <input type="radio" name="show" value="20"> 20
-                <input type="radio" name="show" value="all"> All
-            </div>
-            <div class="publication-count">
-                Publications: <span id="publication-count">0</span>
-            </div>
-        </div>
-        <ol role="list" class="publications-list"></ol>
-        <div class="pagination">
-            <button id="prev-page">Prev</button>
-            <span id="page-info">Page 1 of 1</span>
-            <button id="next-page">Next</button>
-        </div>
-    </section>
-
-    <script>
-        let publications = [];
-        let currentPage = 1;
-        let itemsPerPage = 10;
-
-        const publicationList = document.querySelector('.publications-list');
-        const filterKeyword = document.getElementById('filter-keyword');
-        const filterAuthor = document.getElementById('filter-author');
-        const publicationCount = document.getElementById('publication-count');
-        const pageInfo = document.getElementById('page-info');
-
-        fetch('https://raw.githubusercontent.com/nurgultekin/publications/main/publications.json')
-          .then(response => response.json())
-          .then(data => {
-            publications = data.publications; // Assign data to the publications array
-            console.log(publications); // Check if data is being fetched
-            populateFilters();
-            renderPublications();
-            updateCount();
-            updatePageInfo();
-          })
-          .catch(error => {
-            console.error('Error fetching the JSON data:', error);
-          });
-
-        function populateFilters() {
-          const keywords = [...new Set(publications.flatMap(pub => pub.keywords))];
-          const authors = [...new Set(publications.flatMap(pub => pub.authors))];
-          
-          filterKeyword.innerHTML = '<option value="">Filter by keyword</option>'; // Reset options
-          filterAuthor.innerHTML = '<option value="">Filter by author</option>'; // Reset options
-
-          keywords.forEach(keyword => {
-            const option = document.createElement('option');
-            option.value = keyword;
-            option.textContent = keyword;
-            filterKeyword.appendChild(option);
-          });
-
-          authors.forEach(author => {
-            const option = document.createElement('option');
-            option.value = author;
-            option.textContent = author;
-            filterAuthor.appendChild(option);
-          });
-        }
-
-        function renderPublications() {
-          publicationList.innerHTML = '';
-
-          const filteredPublications = filterPublications();
-          const paginatedPublications = paginatePublications(filteredPublications);
-
-          paginatedPublications.forEach(pub => {
-            const listItem = document.createElement('li');
-            listItem.innerHTML = `
-              <div class="publication-item">
-                <div class="year">${pub.year}</div>
-                <div class="details">
-                  <h4>${pub.title}</h4>
-                  <p>${pub.authors.join(', ')}</p>
-                  <p>${pub.journal}</p>
-                  <p>${pub.keywords.join(', ')}</p>
-                </div>
-              </div>
-            `;
-            publicationList.appendChild(listItem);
-          });
-          updatePageInfo();
-        }
-
-        function filterPublications() {
-          const keyword = filterKeyword.value;
-          const author = filterAuthor.value;
-
-          return publications.filter(pub => {
-            return (!keyword || pub.keywords.includes(keyword)) && 
-                   (!author || pub.authors.includes(author));
-          });
-        }
-
-        function paginatePublications(items) {
-          const startIndex = (currentPage - 1) * itemsPerPage;
-          return items.slice(startIndex, startIndex + itemsPerPage);
-        }
-
-        function updateCount() {
-          publicationCount.textContent = filterPublications().length;
-        }
-
-        function updatePageInfo() {
-          const totalPages = Math.ceil(filterPublications().length / itemsPerPage);
-          pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
-        }
-
-        filterKeyword.addEventListener('change', () => {
-          currentPage = 1;
-          renderPublications();
-          updateCount();
-        });
-
-        filterAuthor.addEventListener('change', () => {
-          currentPage = 1;
-          renderPublications();
-          updateCount();
-        });
-
-        document.querySelector('.show-options').addEventListener('change', (e) => {
-          itemsPerPage = e.target.value === 'all' ? publications.length : parseInt(e.target.value);
-          currentPage = 1;
-          renderPublications();
-          updateCount();
-        });
-
-        document.getElementById('prev-page').addEventListener('click', () => {
-          if (currentPage > 1) {
-            currentPage--;
-            renderPublications();
-            updatePageInfo();
-          }
-        });
-
-        document.getElementById('next-page').addEventListener('click', () => {
-          const totalPages = Math.ceil(filterPublications().length / itemsPerPage);
-          if (currentPage < totalPages) {
-            currentPage++;
-            renderPublications();
-            updatePageInfo();
-          }
-        });
     </script>
 </body>
 </html>
