@@ -89,7 +89,7 @@
 <script src="https://www.youtube.com/iframe_api"></script>
 
 <script>
-    let players = []; // Declare players array only once
+    let players = []; 
     let allVideos;
     let currentPlayer = null;
 
@@ -136,6 +136,12 @@
             }
         });
     });
+
+  const iframe = document.getElementById("iframe");
+
+  document.getElementById("fullScreen").addEventListener("click", function() {
+    iframe.setAttribute("style", "position:fixed; left: 4rem; right:4rem; width: 100%;")
+  })
 
     function openOverlay(videoId) {
         $('#video-overlay').show().html(`
