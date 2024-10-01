@@ -1,178 +1,127 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>YouTube Carousel</title>
     <style>
-        .section-publications {
-            padding: 20px;
+        /* Overlay styles */
+        #video-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            z-index: 9999;
         }
 
-        .filters {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 20px;
+        #video-overlay iframe {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80%;
+            height: 80%;
         }
 
-        .publications-list {
-            list-style: none;
-            padding: 0;
+        #overlay-close {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 2rem;
+            color: white;
+            cursor: pointer;
         }
 
-        .publication-item {
-            display: flex;
+        /* Navigation arrows styles */
+        .left-arrow, .right-arrow {
+            cursor: pointer;
             padding: 10px;
-            margin-bottom: 10px;
-            border: 1px solid #ddd;
-            background-color: #f9f9f9;
-        }
-
-        .publication-item .year {
-            width: 50px;
-            text-align: center;
-            font-weight: bold;
-            color: #fff;
-            background-color: #000000;
-            padding: 10px;
-        }
-
-        .publication-item .details {
-            margin-left: 20px;
-        }
-
-        .pagination {
-            display: flex;
-            justify-content: center;
-            margin-top: 20px;
-            font-family: "Roboto";
-        }
-
-        .pagination button {
-            margin: 0 10px;
-            padding: 10px 10px;
-            background-color: #000000;
-            color: #fff;
-            font-family: "Roboto";
+            background-color: #ccc; /* Change as needed */
         }
     </style>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://www.youtube.com/iframe_api"></script>
 </head>
 <body>
-  <section>
-    <!-- YouTube Carousel -->
+
 <div id="YouTube-carousel-desktop">
-  <div class="youtube-slider-mask">
-    <div class="youtube-slider">
-      <div id="slide-stack">
-        <!-- Video Slide 1 -->
-        <div class="video-slide-item" id="video-slide-item-0">
-          <iframe id="video-0" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video1?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-        <div class="video-slide-item" id="video-slide-item-1">
-          <iframe id="video-1" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video2?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-        <div class="video-slide-item" id="video-slide-item-2">
-          <iframe id="video-2" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video3?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <div class="youtube-slider-mask">
+        <div class="youtube-slider">
+            <div id="slide-stack">
+                <!-- Video Slide 1 -->
+                <div class="video-slide-item" id="video-slide-item-0">
+                    <iframe id="video-0" class="video" width="100%" height="315" src="https://www.youtube.com/embed/3lEQDf9Cv4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+                <div class="video-slide-item" id="video-slide-item-1">
+                    <iframe id="video-1" class="video" width="100%" height="315" src="https://www.youtube.com/embed/uFjOjAqe_jc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+                <div class="video-slide-item" id="video-slide-item-2">
+                    <iframe id="video-2" class="video" width="100%" height="315" src="https://www.youtube.com/embed/A0e-kYQDavo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+                <!-- Next Slider -->
+                <div class="video-slide-item" id="video-slide-item-3">
+                    <iframe id="video-3" class="video" width="100%" height="315" src="https://www.youtube.com/embed/PFQliroGeUo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+                <div class="video-slide-item" id="video-slide-item-4">
+                    <iframe id="video-4" class="video" width="100%" height="315" src="https://www.youtube.com/embed/v9ZNHDYPjo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+                <div class="video-slide-item" id="video-slide-item-5">
+                    <iframe id="video-5" class="video" width="100%" height="315" src="https://www.youtube.com/embed/FFKzNl67mS8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
+            </div>
         </div>
 
-        <!-- Next Slider -->
-        <div class="video-slide-item" id="video-slide-item-3">
-          <iframe id="video-3" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video4?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-        <div class="video-slide-item" id="video-slide-item-4">
-          <iframe id="video-4" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video5?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-        <div class="video-slide-item" id="video-slide-item-5">
-          <iframe id="video-5" class="video" width="100%" height="315" src="https://www.youtube.com/embed/Video6?enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-
-      </div>
+        <!-- Navigation Arrows -->
+        <div class="left-arrow">Left</div>
+        <div class="right-arrow">Right</div>
     </div>
-    
-    <!-- Navigation Arrows -->
-    <div class="left-arrow">Left</div>
-    <div class="right-arrow">Right</div>
-  </div>
 </div>
 
 <!-- Overlay for Playing Videos in Larger Size -->
-<div id="video-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.9); z-index: 9999;">
-  <div id="overlay-close" style="position: absolute; top: 20px; right: 20px; color: white; cursor: pointer;">&times; Close</div>
+<div id="video-overlay" style="display: none;">
+    <div id="overlay-close">&times; Close</div>
 </div>
 
-<style>
-#video-overlay iframe {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 80%;
-  height: 80%;
-}
-
-#overlay-close {
-  font-size: 2rem;
-  color: white;
-  cursor: pointer;
-}
-</style>
-
+<!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <!-- Include the YouTube IFrame API -->
 <script src="https://www.youtube.com/iframe_api"></script>
 
 <script>
-   // YouTube player variables
-   let players = [];
+    let players = []; // Declare players array only once
     let allVideos;
     let currentPlayer = null;
 
-    // YouTube API Key (optional)
-    const apiKey = "AIzaSyDLQJ-Ods5185Czzt_CcDakUK89ANKrHOM"; // Use only if needed for API calls
-
-    const videoIDs = ['video-0', 'video-1', 'video-2', 'video-3', 'video-4', 'video-5'];  // Replace these with actual video IDs
-
-    // Initialize YouTube IFrame API for each iframe video
     function onYouTubeIframeAPIReady() {
-        allVideos = $('.video-slide-item iframe');  // Target all the iframe videos
+        allVideos = $('.video-slide-item iframe'); // Target all the iframe videos
 
         allVideos.each(function(index) {
-            // Initialize YouTube Player for each video
             players[index] = new YT.Player($(this).attr('id'), {
                 events: {
                     'onStateChange': onPlayerStateChange
                 }
             });
 
-            // Save the YouTube player instance in the data attribute
             $(this).data('player', players[index]);
         });
     }
 
-    // Function to handle state change (pause other videos if one starts playing)
     function onPlayerStateChange(event) {
         if (event.data === YT.PlayerState.PLAYING) {
             if (currentPlayer && currentPlayer !== event.target) {
-                currentPlayer.pauseVideo();  // Pause the currently playing video
+                currentPlayer.pauseVideo();
             }
             currentPlayer = event.target;
         }
     }
 
-    // Handle click on video containers to open overlay and play/pause videos
     $(document).ready(function() {
         $('.video-slide-item').click(function () {
-            const clickedPlayer = $(this).find('iframe').data('player');  // Get the YouTube player object for the clicked video
-
-            // Extract video ID from the src attribute
+            const clickedPlayer = $(this).find('iframe').data('player');
             const videoId = $(this).find('iframe').attr('src').split('/')[4];
-            
-            // Open the overlay with the video
             openOverlay(videoId);
 
-            // Pause all other videos
             allVideos.each(function () {
                 let otherPlayer = $(this).data('player');
                 if (otherPlayer !== clickedPlayer) {
@@ -180,7 +129,6 @@
                 }
             });
 
-            // Play or pause the clicked video
             if (clickedPlayer.getPlayerState() === YT.PlayerState.PLAYING) {
                 clickedPlayer.pauseVideo();
             } else {
@@ -189,21 +137,19 @@
         });
     });
 
-    // Function to open video in an overlay
     function openOverlay(videoId) {
         $('#video-overlay').show().html(`
             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/${videoId}?autoplay=1" frameborder="0" allowfullscreen></iframe>
         `);
     }
 
-    // Close overlay when clicking the close button
     $(document).on('click', '#overlay-close', function () {
         $('#video-overlay').hide().empty();
-        // Optionally pause the current video when closing
         if (currentPlayer) {
             currentPlayer.pauseVideo();
         }
     });
-    </script>
+</script>
+
 </body>
 </html>
