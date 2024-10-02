@@ -22,7 +22,8 @@
         "authors": ["Graham Wilcock", "Kristiina Jokinen"],
         "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
         "keywords": ["TRUST", "LLM", "Dialog", "Knowledge"],
-        "link": "https://doi.org/10.1109/roman.2023.123458"
+        "link": "https://doi.org/10.1109/roman.2023.123458",
+        "source": ""
       },
       {
         "title": "Feeding the Coffee Habit: A Longitudinal Study of a Robo-Barista",

@@ -1,0 +1,37 @@
+[
+    {
+      "id": "video1_id",
+      "title": "Introducing Figure 02",
+      "thumbnail": "https://link_to_thumbnail1.jpg",
+      "link": "https://www.youtube.com/embed/3lEQDf9Cv4s"
+
+      
+    },
+    {
+      "id": "video2_id",
+      "thumbnail": "https://link_to_thumbnail2.jpg",
+      "link": "https://www.youtube.com/embed/uFjOjAqe_jc"
+    },
+    {
+      "id": "video3_id",
+      "thumbnail": "https://link_to_thumbnail3.jpg",
+      "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+    },
+    {
+        "id": "video4_id",
+        "thumbnail": "https://link_to_thumbnail3.jpg",
+        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+      },
+      {
+        "id": "video3_id",
+        "thumbnail": "https://link_to_thumbnail3.jpg",
+        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+      },
+      {
+        "id": "video3_id",
+        "thumbnail": "https://link_to_thumbnail3.jpg",
+        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+      }
+
+  ]
+  
