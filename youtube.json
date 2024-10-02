@@ -23,12 +23,12 @@
       },
       {
         "id": "video5_id",
-        "thumbnail": "",
+        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/concierge.png",
         "link": "https://www.youtube.com/embed/PFQliroGeUo"
       },
       {
         "id": "video6_id",
-        "thumbnail": "",
+        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/dark-HCI.jpg",
         "link": "https://www.youtube.com/embed/FFKzNl67mS8"
       }
 
