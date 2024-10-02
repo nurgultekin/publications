@@ -1,36 +1,35 @@
 [
     {
       "id": "video1_id",
-      "title": "Introducing Figure 02",
-      "thumbnail": "https://link_to_thumbnail1.jpg",
+      "thumbnail": "https://github.com/nurgultekin/publications/blob/8be1d5f60172e8b93f6f8470de22910adea0530e/FurhatWebPrototype/src/assets/YT-thumbnails/hospitality-robot.png",
       "link": "https://www.youtube.com/embed/3lEQDf9Cv4s"
 
       
     },
     {
       "id": "video2_id",
-      "thumbnail": "https://link_to_thumbnail2.jpg",
-      "link": "https://www.youtube.com/embed/uFjOjAqe_jc"
+      "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/language-training.png",
+      "link": "https://www.youtube.com/embed/XXzlSDIgTxI"
     },
     {
       "id": "video3_id",
-      "thumbnail": "https://link_to_thumbnail3.jpg",
+      "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/panel-6th-conference.png",
       "link": "https://www.youtube.com/embed/A0e-kYQDavo"
     },
     {
         "id": "video4_id",
-        "thumbnail": "https://link_to_thumbnail3.jpg",
-        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/staff-training-robot.png",
+        "link": "https://www.youtube.com/embed/uFjOjAqe_jc"
       },
       {
-        "id": "video3_id",
-        "thumbnail": "https://link_to_thumbnail3.jpg",
-        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+        "id": "video5_id",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/embed/PFQliroGeUo"
       },
       {
-        "id": "video3_id",
-        "thumbnail": "https://link_to_thumbnail3.jpg",
-        "link": "https://www.youtube.com/embed/A0e-kYQDavo"
+        "id": "video6_id",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/embed/FFKzNl67mS8"
       }
 
   ]
