@@ -1,14 +1,14 @@
 [
     {
       "id": "video1_id",
-      "thumbnail": "https://github.com/nurgultekin/publications/blob/8be1d5f60172e8b93f6f8470de22910adea0530e/FurhatWebPrototype/src/assets/YT-thumbnails/hospitality-robot.png",
+      "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/hospitality-robot.png?raw=true",
       "link": "https://www.youtube.com/embed/3lEQDf9Cv4s"
 
       
     },
     {
       "id": "video2_id",
-      "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/language-training.png",
+      "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/language-training.png?raw=true",
       "link": "https://www.youtube.com/embed/XXzlSDIgTxI"
     },
     {
@@ -18,12 +18,12 @@
     },
     {
         "id": "video4_id",
-        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/staff-training-robot.png",
+        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/staff-training-robot.png?raw=true",
         "link": "https://www.youtube.com/embed/uFjOjAqe_jc"
       },
       {
         "id": "video5_id",
-        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/concierge.png",
+        "thumbnail": "https://github.com/nurgultekin/publications/blob/main/FurhatWebPrototype/src/assets/YT-thumbnails/concierge.png?raw=true",
         "link": "https://www.youtube.com/embed/PFQliroGeUo"
       },
       {
