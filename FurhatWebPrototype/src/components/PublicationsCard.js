@@ -32,6 +32,6 @@ function PublicationsCard() {
 }
 
 // Call the function to populate the cards
-export default PublicationsCard();
+export default PublicationsCard;
 
 
