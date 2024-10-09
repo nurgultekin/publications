@@ -1,5 +1,5 @@
 import './App.css'
-import "./components/PublicationsCard"
+import {PublicationsCard} "./components/PublicationsCard"
 
 
 function App() {
