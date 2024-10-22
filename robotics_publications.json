@@ -1,0 +1,3762 @@
+{
+  "publications": [
+    {
+      "title": "Stereotypical nationality representations in HRI: perspectives from international young adults",
+      "year": 2023,
+      "authors": [
+        "Ronald Cumbal",
+        "Agnes Axelsson",
+        "Shivam Mehta",
+        "Olov Engwall"
+      ],
+      "keywords": [
+        "Stereotypes"
+      ],
+      "link": "https://www.frontiersin.org/articles/10.3389/frobt.2023.1264614/full"
+    },
+    {
+      "title": "Seeing eye to eye: trustworthy embodiment for task-based conversational agent",
+      "year": 2023,
+      "authors": [
+        "David A. Robb",
+        "José Lopes",
+        "Muneeb I. Ahmad",
+        "Peter E. McKenna",
+        "Xingkun Liu",
+        "Katrin Lohan",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "Embodiment",
+        "TRUST"
+      ],
+      "link": "https://www.frontiersin.org/articles/10.3389/frobt.2023.1234767/full"
+    },
+    {
+      "title": "To Err Is Robotic; to Earn Trust, Divine: Comparing ChatGPT and Knowledge Graphs for HRI",
+      "year": 2023,
+      "authors": [
+        "Graham Wilcock",
+        "Kristiina Jokinen"
+      ],
+      "keywords": [
+        "TRUST",
+        "LLM",
+        "Dialog",
+        "Knowledge"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/10309510"
+    },
+    {
+      "title": "Feeding the Coffee Habit: A Longitudinal Study of a Robo-Barista",
+      "year": 2023,
+      "authors": [
+        "Mei Yii Lim",
+        "David A. Robb",
+        "Bruce W. Wilson",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309621"
+    },
+    {
+      "title": "Co-Design of a Robotic Mental Well-Being Coach to Help University Students Manage Public Speaking Anxiety",
+      "year": 2023,
+      "authors": [
+        "Samira Rasouli",
+        "Linda Johnston",
+        "Jennifer Yuen",
+        "Moojan Ghafurian",
+        "Leah Foster",
+        "Kerstin Dautenhahn"
+      ],
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3623809.3623872"
+    },
+    {
+      "title": "Emotionally Specific Backchanneling in Social Human-Robot Interaction",
+      "year": 2023,
+      "authors": [
+        "Pourya Shahverdi",
+        "Katelyn Rousso",
+        "Justin Klotz",
+        "Iman Bakhoda",
+        "Malek Zribi",
+        "Wing-Yue Geoffrey Louie"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10341823"
+    },
+    {
+      "title": "Unveiling the Learning Curve: Enhancing Transparency in Robot’s Learning with Inner Speech and Emotions",
+      "year": 2023,
+      "authors": [
+        "Georgios Angelopoulos",
+        "Carmine Di Martino",
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309352"
+    },
+    {
+      "title": "Indirect Politeness of Disconfirming Answers to Humans and Robots",
+      "year": 2023,
+      "authors": [
+        "Eleonore Lumer",
+        "Clara Lachenmaier",
+        "Sina Zarrieß",
+        "Hendrik Buschmeier"
+      ],
+      "keywords": [
+        "HRI",
+        "Dialog"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309586"
+    },
+    {
+      "title": "Come Closer: The Effects of Robot Personality on Human Proxemics Behaviours",
+      "year": 2023,
+      "authors": [
+        "Meriam Moujahid",
+        "David A. Robb",
+        "Christian Dondrup",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309333"
+    },
+    {
+      "title": "Evaluating People’s Perception of Trust of a Deceptive Robot with Theory of Mind in an Assistive Gaming Scenario",
+      "year": 2023,
+      "authors": [
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309647"
+    },
+    {
+      "title": "No One is an Island – Investigating the Need for Social Robots (and Researchers) to Handle Multi-Party Interactions in Public Space",
+      "year": 2023,
+      "authors": [
+        "Ana Müller",
+        "Anja Richert"
+      ],
+      "keywords": [
+        "HRI",
+        "Multiparty"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309383"
+    },
+    {
+      "title": "Prototypes of a Migrating Receptionist in Physical and Virtual Space",
+      "year": 2023,
+      "authors": [
+        "Emma Mainza Chilufya",
+        "Mattias Arvola",
+        "Tom Ziemke"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3570945.3607287"
+    },
+    {
+      "title": "Personality-Adapted Language Generation for Social Robots",
+      "year": 2023,
+      "authors": [
+        "Alessio Galatolo",
+        "Iolanda Leite",
+        "Katie Winkle"
+      ],
+      "keywords": [
+        "Speech",
+        "Dialog"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309335"
+    },
+    {
+      "title": "That’s not a Good Idea: A Robot Changes Your Behavior Against Social Engineering",
+      "year": 2023,
+      "authors": [
+        "Dario Pasquali",
+        "Austin Kothig",
+        "Alexander Mois Aroyo",
+        "John Edison Muñoz Cadorna",
+        "Kerstin Dautenhahn",
+        "Stefano Bencetti",
+        "Rea Francesco",
+        "Alessandra Sciutti"
+      ],
+      "keywords": [
+        "HRI",
+        "Other"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3623809.3623879"
+    },
+    {
+      "title": "Data-Driven Generation of Eyes and Head Movements of a Social Robot in Multiparty Conversation",
+      "year": 2023,
+      "authors": [
+        "Léa Haefflinger",
+        "Frédéric Elisei",
+        "Béatrice Bouchot",
+        "Brice Varini",
+        "Gérard Bailly"
+      ],
+      "keywords": [
+        "Gaze"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-981-99-8715-3_17"
+    },
+    {
+      "title": "Robot-mediated Job Interview Training for Individuals with ASD: A Pilot Study",
+      "year": 2023,
+      "authors": [
+        "Pourya Shahverdi",
+        "Katelyn Rousso",
+        "Iman Bakhoda",
+        "Nathan Huang",
+        "Kristin Rohrbeck",
+        "Wing-Yue Geoffrey Louie"
+      ],
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309611"
+    },
+    {
+      "title": "Contextual Coaching: Support for Well-being based on Environmental Sensor Information and Conversational AI",
+      "year": 2023,
+      "authors": [
+        "Kristiina Jokinen"
+      ],
+      "keywords": [
+        "HRI",
+        "Training",
+        "Dialog"
+      ],
+      "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3U5IS403/_article/-char/ja/"
+    },
+    {
+      "title": "Limitations of Audiovisual Speech on Robots for Second Language Pronunciation Learning",
+      "year": 2023,
+      "authors": [
+        "Saya Amioka",
+        "Ruben Janssens",
+        "Pieter Wolfert",
+        "Qiaoqiao Ren",
+        "Maria Jose Pinto Bernal",
+        "Tony Belpaeme"
+      ],
+      "keywords": [
+        "Speech"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3568162.3578633"
+    },
+    {
+      "title": "Socio-cultural perception of robot backchannels",
+      "year": 2023,
+      "authors": [
+        "Olov Engwall",
+        "Ronald Cumbal",
+        "Ali Reza Majlesi"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://sciendo.com/article/10.2478/nimmir-2023-0017"
+    },
+    {
+      "title": "Is there room for high tech in a high touch industry? An exploratory study on adoption of social robots in the hotel industry",
+      "year": 2023,
+      "authors": [
+        "Emelie Dellby Svensk",
+        "Kajsa Jernetz"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://lup.lub.lu.se/student-papers/search/publication/9119735"
+    },
+    {
+      "title": "Hi robot, it’s not what you say, it’s how you say it",
+      "year": 2023,
+      "authors": [
+        "Jura Miniotaite",
+        "Siyang Wang",
+        "Jonas Beskow",
+        "Joakim Gustafson",
+        "Éva Székely",
+        "André Pereiral"
+      ],
+      "keywords": [
+        "Speech"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/10309427"
+    },
+    {
+      "title": "Generation of speech and facial animation with controllable articulatory effort for amusing conversational characters",
+      "year": 2023,
+      "authors": [
+        "Joakim Gustafson",
+        "Éva Székely",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Dialog",
+        "Face"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3570945.3607289"
+    },
+    {
+      "title": "Should robots be polite? Expectations about politeness in human–robot interaction",
+      "year": 2023,
+      "authors": [
+        "Eleonore Lumer",
+        "Hendrik Buschmeier"
+      ],
+      "keywords": [
+        "HRI",
+        "Dialog"
+      ],
+      "link": "https://www.frontiersin.org/articles/10.3389/frobt.2023.1242127/full"
+    },
+    {
+      "title": "Can We Empower Attentive E-reading with a Social Robot? An Introductory Study with a Novel Multimodal Dataset and Deep Learning Approaches",
+      "year": 2023,
+      "authors": [
+        "Yoon Lee",
+        "Marcus Specht"
+      ],
+      "keywords": [
+        "HRI",
+        "Training",
+        "Education"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3576050.3576122"
+    },
+    {
+      "title": "Decision Support in Tourism through Social Robots: Design and Evaluation of a Conversation-Based Recommendation Approach Based on Tourist Segments",
+      "year": 2023,
+      "authors": [
+        "Justin Tolle",
+        "Alexander Piazza",
+        "Carolin Kaiser",
+        "René Schallner"
+      ],
+      "keywords": [
+        "HRI",
+        "Dialog"
+      ],
+      "link": "https://ceur-ws.org/Vol-3568/paper6.pdf"
+    },
+    {
+      "title": "Differential Outcomes Training of Visuospatial Memory: A Gamified Approach Using a Socially Assistive Robot",
+      "year": 2023,
+      "authors": [
+        "Alva Markelius",
+        "Sofia Sjöberg",
+        "Martin Bergström",
+        "Bahram Salamat Ravandi",
+        "Ana B. Vivas",
+        "Imran Khan",
+        "Robert Lowe"
+      ],
+      "keywords": [
+        "HRI",
+        "Training"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12369-023-01083-0"
+    },
+    {
+      "title": "Robot’s Gendering Trouble: A Scoping Review of Gendering Humanoid Robots and Its Effects on HRI",
+      "year": 2023,
+      "authors": [
+        "Giulia Perugia",
+        "Dominika Lisy"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12369-023-01061-6"
+    },
+    {
+      "title": "Do You Follow?: A Fully Automated System for Adaptive Robot Presenters",
+      "year": 2023,
+      "authors": [
+        "Agnes Axelsson",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "LLM"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3568162.3576958"
+    },
+    {
+      "title": "Towards a Computational Approach for Proactive Robot Behaviour in Assistive Tasks",
+      "year": 2023,
+      "authors": [
+        "Ilenia Cucciniello",
+        "Antonio Andriella",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "Training",
+        "Data-driven"
+      ],
+      "link": "https://www.antonioandriella.com/publication/hri_23_uninq/"
+    },
+    {
+      "title": "A Norwegian Whisper Model for Automatic Speech Recognition",
+      "year": 2023,
+      "authors": [
+        "Alexander Michael Ås"
+      ],
+      "keywords": [
+        "Speech"
+      ],
+      "link": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3098538"
+    },
+    {
+      "title": "Generative Facial Expressions and Eye Gaze Behavior from Prompts for Multi-Human-Robot Interaction",
+      "year": 2023,
+      "authors": [
+        "Gabriel J Serfaty",
+        "Virgil O Barnard",
+        "Joseph P Salisbury"
+      ],
+      "keywords": [
+        "LLM",
+        "Face"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3586182.3616623"
+    },
+    {
+      "title": "Assessing stress, anxiety, and depression with social robots via conversational AI",
+      "year": 2023,
+      "authors": [
+        "Anuj Nandanwar",
+        "Varun Dutt"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Emotions"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3594806.3596589"
+    },
+    {
+      "title": "Vocal accommodation to technology: the role of physical form",
+      "year": 2023,
+      "authors": [
+        "Michelle Cohn",
+        "Ashley Keaton",
+        "Jonas Beskow",
+        "Georgia Zellou"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://www.sciencedirect.com/science/article/pii/S0388000123000323#fig2"
+    },
+    {
+      "title": "Managing turn-taking in human-robot interactions: The case of projections and overlaps, and the anticipation of turn design by human participants",
+      "year": 2023,
+      "authors": [
+        "Ali Reza Majlesi",
+        "Ronald Cumbal",
+        "Olov Engwall",
+        "Sarah Gillet",
+        "Silvia Kunitz",
+        "Gustav Lymer",
+        "Catrin Norrby",
+        "Sylvaine Tuncer"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://kclpure.kcl.ac.uk/portal/en/publications/managing-turn-taking-in-human-robot-interactions-the-case-of-proj"
+    },
+    {
+      "title": "Comparing Dashboard and Virtual Reality Wizard-of-Oz Setups In a Human-Robot Conversational Task",
+      "year": 2023,
+      "authors": [
+        "Jura Miniotaite",
+        "Ekaterina Torubarova",
+        "André Pereira"
+      ],
+      "keywords": [
+        "Teleoperation"
+      ],
+      "link": "https://openreview.net/forum?id=PMt8Rg57Fj"
+    },
+    {
+      "title": "Robot-Supported Information Search: Which Conversational Interaction Style do Children Prefer?",
+      "year": 2023,
+      "authors": [
+        "Suyash Sharma",
+        "Thomas Beelen",
+        "Khiet P. Truong"
+      ],
+      "keywords": [
+        "Children"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3568294.3580128"
+    },
+    {
+      "title": "Robot-led machine learning education activity and its impact on perceptions of robots",
+      "year": 2023,
+      "authors": [
+        "Agnes Davidsdottir"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1775536&dswid=4202"
+    },
+    {
+      "title": "Exploring Mothers’ Perspectives on Socially Assistive Robots in Peripartum Depression Screening",
+      "year": 2023,
+      "authors": [
+        "Tobiaz Paulsson",
+        "Mengyu Zhong",
+        "Isabel García Velázquez",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Care"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3568294.3580132"
+    },
+    {
+      "title": "On the Benefit of Independent Control of Head and Eye Movements of a Social Robot for Multiparty Human-Robot Interaction",
+      "year": 2023,
+      "authors": [
+        "Léa Haefflinger",
+        "Frédéric Elisei",
+        "Silvain Gerber",
+        "Béatrice Bouchot",
+        "Jean-Philippe Vigne",
+        "Gérard Bailly"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multiparty"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-35596-7_29"
+    },
+    {
+      "title": "Bilingual Japanese/English robot dialogues with knowledge graphs and conversational AI",
+      "year": 2023,
+      "authors": [
+        "Graham Wilcock"
+      ],
+      "keywords": [
+        "Other",
+        "Dialog"
+      ],
+      "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3U5IS402/_article/-char/ja/"
+    },
+    {
+      "title": "Exploring Multidimensional Trust: Shaping Child-Robot Creative Collaborations in Education",
+      "year": 2023,
+      "authors": [
+        "Natalia Calvo-Barajas"
+      ],
+      "keywords": [
+        "Children",
+        "HRI",
+        "Training"
+      ],
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1748598&dswid=-3697"
+    },
+    {
+      "title": "Trusting the Moral Judgments of a Robot: Perceived Moral Competence and Humanlikeness of a GPT-3 Enabled AI",
+      "year": 2023,
+      "authors": [
+        "Ali Momen",
+        "Ewart De Visser",
+        "Kyle Wolsten",
+        "Katarina Cooley",
+        "James Walliser",
+        "Chad C. Tossell"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://scholarspace.manoa.hawaii.edu/items/37ba761b-0b5a-49e8-8754-c807703b62e1"
+    },
+    {
+      "title": "Can We Empower Attentive E-reading with a Social Robot? An Introductory Study with a Novel Multimodal Dataset and Deep Learning Approaches",
+      "year": 2023,
+      "authors": [
+        "Yoon Lee",
+        "Marcus Specht"
+      ],
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3576050.3576122"
+    },
+    {
+      "title": "A Two-Tier GAN Architecture for Conditioned Expressions Synthesis on Categorical Emotions",
+      "year": 2023,
+      "authors": [
+        "Paolo Domenico Lambiase",
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "Face"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12369-023-00973-7"
+    },
+    {
+      "title": "Older Adults’ Perception of the Furhat Robot",
+      "year": 2023,
+      "authors": [
+        "Sofia Thunberg",
+        "Maria Arnelid",
+        "Tom Ziemke"
+      ],
+      "keywords": [
+        "Appearance"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3527188.3561924"
+    },
+    {
+      "title": "A social robot as your reading companion: exploring the relationships between gaze patterns and knowledge gains",
+      "year": 2023,
+      "authors": [
+        "Xuan Liu",
+        "Jiachen Ma",
+        "Qiang Wang"
+      ],
+      "keywords": [
+        "Gaze",
+        "Education",
+        "Reading motivation"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12193-023-00418-5#Fig1"
+    },
+    {
+      "title": "Socio-cultural perception of robot backchannels",
+      "year": 2023,
+      "authors": [
+        "Olov Engwall",
+        "Ronald Cumbal",
+        "Ali Reza Majlesi"
+      ],
+      "keywords": [
+        "Perception",
+        "Dialog",
+        "Multiparty",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1731278/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Knowing where to look: A planning-based architecture to automate the gaze behavior of social robots",
+      "year": 2022,
+      "authors": [
+        "Chinmaya Mishra",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Furhat Robotics",
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1727576&dswid=8603"
+    },
+    {
+      "title": "Book-talks with Furhat: How can Interaction with Conversational Robots be Used to Motivate Swedish Middle Schoolers to Read?",
+      "year": 2022,
+      "authors": [
+        "Marcus Jessen"
+      ],
+      "keywords": [
+        "Wizard-of-Oz",
+        "Reading motivation",
+        "Conversational robots",
+        "Self-determination theory",
+        "Novelty effect",
+        "Education"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1693059/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Gender Fairness in Social Robotics: Exploring a Future Care of Peripartum Depression",
+      "year": 2022,
+      "authors": [
+        "Laetitia Tanqueray",
+        "Tobiaz Paulsson",
+        "Mengyu Zhong",
+        "Stefan Larsson",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Furhat",
+        "Gender",
+        "Perception"
+      ],
+      "link": "https://lucris.lub.lu.se/ws/portalfiles/portal/112225110/Tanqueray_2022_Gender_Fairness_in_Social_Robotics_Exploring_a_Future_Care_of_Peripartum_Depression.pdf"
+    },
+    {
+      "title": "Generating More Intelligent Responses and Explanations with Conversational AI and Knowledge Graphs",
+      "year": 2022,
+      "authors": [
+        "Graham Wilcock"
+      ],
+      "keywords": [
+        "HRI",
+        "Data-driven"
+      ],
+      "link": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3S4IS403/_pdf"
+    },
+    {
+      "title": "Going Beyond the “Synthetic Method”: New Paradigms Cross-Fertilizing Robotics and Cognitive Neuroscience",
+      "year": 2022,
+      "authors": [
+        "Edoardo Datteri",
+        "Thierry Chaminade",
+        "Donato Romano"
+      ],
+      "keywords": [
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://doi.org/10.3389/fpsyg.2022.819042"
+    },
+    {
+      "title": "Effects of Filled Pauses on Memory Recall in Human-Robot Interaction in Mandarin Chinese",
+      "year": 2022,
+      "authors": [
+        "Xinyi Chen",
+        "Andreas Liesenfeld",
+        "Yao Yao",
+        "Shiyue Li"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-06086-1_1"
+    },
+    {
+      "title": "Causal Analysis of Activity in Social Brain Areas During Human-Agent Conversation",
+      "year": 2022,
+      "authors": [
+        "Caio de Castro Martins",
+        "Thierry Chaminade",
+        "Marc Cavazza"
+      ],
+      "keywords": [
+        "Neuroscience",
+        "HRI"
+      ],
+      "link": "https://www.frontiersin.org/articles/10.3389/fnrgo.2022.843005/full"
+    },
+    {
+      "title": "Backchannel Behavior Influences the Perceived Personality of Human and Artificial Communication Partners",
+      "year": 2022,
+      "authors": [
+        "Peter Blomsma",
+        "Gabriel Skantze",
+        "Marc Swerts"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://www.frontiersin.org/articles/10.3389/frai.2022.835298/full"
+    },
+    {
+      "title": "Norm-Breaking Responses to Sexist Abuse: A Cross-Cultural Human Robot Interaction Study",
+      "year": 2022,
+      "authors": [
+        "Katie Winkle",
+        "Ryan Blake Jackson",
+        "Gaspar Isaac Melsión",
+        "Dražen Brščić",
+        "Iolanda Leite",
+        "Tom Williams"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/pdf/10.5555/3523760.3523780"
+    },
+    {
+      "title": "Conversational AI and Knowledge Graphs for Social Robot Interaction",
+      "year": 2022,
+      "authors": [
+        "Graham Wilcock",
+        "Kristiina Jokinen"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.5555/3523760.3523941"
+    },
+    {
+      "title": "Demonstration of a Robo-Barista for In the Wild Interactions",
+      "year": 2022,
+      "authors": [
+        "Mei Yii Lim",
+        "José Lopes",
+        "David A. Robb",
+        "Bruce Wilson",
+        "Meriam Moujahid",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.5555/3523760.3523974"
+    },
+    {
+      "title": "Demonstration of a Robot Receptionist with Multi-party Situated Interaction",
+      "year": 2022,
+      "authors": [
+        "Meriam Moujahid",
+        "Bruce Wilson",
+        "Helen Hastie",
+        "Oliver Lemon"
+      ],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.5555/3523760.3523975"
+    },
+    {
+      "title": "Design Implications for Effective Robot Gaze Behaviors in Multiparty Interactions",
+      "year": 2022,
+      "authors": [
+        "Maria Teresa Parreira",
+        "Sarah Gillet",
+        "Marynel Vásquez",
+        "Iolanda Leite"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.5555/3523760.3523918"
+    },
+    {
+      "title": "Learning Gaze Behaviors for Balancing Participation in Group Human-Robot Interactions",
+      "year": 2022,
+      "authors": [
+        "Sarah Gillet",
+        "Maria Teresa Parreira",
+        "Marynel Vásquez",
+        "Iolanda Leite"
+      ],
+      "keywords": [
+        "Dialog",
+        "Multi-Party",
+        "Gaze"
+      ],
+      "link": "https://dl.acm.org/doi/pdf/10.5555/3523760.3523798"
+    },
+    {
+      "title": "“Cool glasses, where did you get them?” Generating Visually Grounded Conversation Starters for Human-Robot Dialogue",
+      "year": 2022,
+      "authors": [
+        "Ruben Janssens",
+        "Pieter Wolfert",
+        "Thomas Demeester",
+        "Tony Belpaeme"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.5555/3523760.3523884"
+    },
+    {
+      "title": "Indentification of Low-engaged Learners in Robot-led Second Language Conversations with Adults",
+      "year": 2022,
+      "authors": [
+        "Olov Engvall",
+        "Ronald Cumbal",
+        "José Lopes",
+        "Mikael Ljung",
+        "Linnea Månsson"
+      ],
+      "keywords": [
+        "Education",
+        "Dialog"
+      ],
+      "link": "https://dl.acm.org/doi/full/10.1145/3503799"
+    },
+    {
+      "title": "Is a Wizard-of-Oz Required for Robot-Led Conversation Practice in a Second Language?",
+      "year": 2022,
+      "authors": [
+        "Olov Engvall",
+        "José Lopes",
+        "Ronald Cumbal"
+      ],
+      "keywords": [
+        "Dialog",
+        "Education",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12369-021-00849-8"
+    },
+    {
+      "title": "Multimodal User Feedback During Adaptive Robot-Human Presentations",
+      "year": 2022,
+      "authors": [
+        "Agnes Axelsson",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Dialog",
+        "Perception"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1612736/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Does the Goal Matter? Emotion Recognition Tasks Can Change the Social Value of Facial Mimicry Towards Artificial Agents",
+      "year": 2021,
+      "authors": [
+        "Giulia Perugia",
+        "Maike Paetzel-Prüsmann",
+        "Isabelle Hupont",
+        "Giovanna Varni",
+        "Mohamed Chetouani",
+        "Christopher Peters",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://doi.org/10.3389/frobt.2021.699090"
+    },
+    {
+      "title": "Aging and Referential Communication: Insights from Interactions with Artificial Agents",
+      "year": 2021,
+      "authors": [
+        "Raheleh Haji Gholam Saryazdi"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.proquest.com/openview/919e9baa09be13463a903deb1d5b4ae7/1?pq-origsite=gscholar&cbl=18750&diss=y"
+    },
+    {
+      "title": "Comparaison linguistique et neuro-physiologique de conversations humain humain et humain robot",
+      "year": 2021,
+      "authors": [
+        "Charlie Hallart",
+        "Juliette Maes",
+        "Nicolas Spatola",
+        "Laurent Prévot",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://hal.archives-ouvertes.fr/hal-03349977/"
+    },
+    {
+      "title": "Expression of Empathy in Social Virtual Bots used for Genetic Counseling",
+      "year": 2021,
+      "authors": [
+        "Anagha Reghunath"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1571903/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Believable and Manipulable Facial Behaviour in a Robotic Platform using Normalizing Flows",
+      "year": 2021,
+      "authors": [
+        "Kildo Alias"
+      ],
+      "keywords": [
+        "Data-driven",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1608607/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Gender Revealed: Evaluating the Genderedness of Furhat’s Predefined Faces",
+      "year": 2021,
+      "authors": [
+        "Giulia Perugia",
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007%2F978-3-030-90525-5_4"
+    },
+    {
+      "title": "Investigating Customers’ Perceived Sensitivity of Information Shared with a Robot Bartender",
+      "year": 2021,
+      "authors": [
+        "Alessandra Rossi",
+        "Giulia Perugia",
+        "Silvia Rossi"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007%2F978-3-030-90525-5_11"
+    },
+    {
+      "title": "Once Upon a Story: Can a Creative Storyteller Robot Stimulate Creativity in Children?",
+      "year": 2021,
+      "authors": [
+        "Maha Elgarf",
+        "Gabriel Skantze",
+        "Christopher Peters"
+      ],
+      "keywords": [
+        "HRI",
+        "Children"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3472306.3478359"
+    },
+    {
+      "title": "In the Presence of Human-Likeness – An Exploratory Study on How Humans Experience Artificial Agents",
+      "year": 2021,
+      "authors": [
+        "Anna Johansson",
+        "Elin Örnberg"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://gupea.ub.gu.se/bitstream/2077/69662/1/gupea_2077_69662_1.pdf"
+    },
+    {
+      "title": "How Do We Gender Robots? Inquiring the Relationship Between Perceptual Cues and Context of Use",
+      "year": 2021,
+      "authors": [
+        "Piercosma Bisconti",
+        "Giulia Perugia"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://drive.google.com/file/d/1Lqw719eyj7IVlB1l6Pykjv9MvTrZNt8U/view"
+    },
+    {
+      "title": "Towards a Real-time Measure of the Perception of Anthropomorphism in Human-robot Interaction",
+      "year": 2021,
+      "authors": [
+        "Maria Tsfasman",
+        "Avinash Saravanan",
+        "Dekel Viner",
+        "Daan Goslinga",
+        "Sarah de Wolf",
+        "Chirag Raman",
+        "Catholijn M. Jonker",
+        "Catharine Oertel"
+      ],
+      "keywords": [
+        "HRI",
+        "TTS"
+      ],
+      "link": "https://doi.org/10.1145/3475959.3485394"
+    },
+    {
+      "title": "Can Feminist Robots Challenge Our Bias?",
+      "year": 2021,
+      "authors": [
+        "Katie Winkle"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://spectrum.ieee.org/human-robot-interaction"
+    },
+    {
+      "title": "Towards an Engagement-Aware Attentive Artificial Listener for Multi-Party Interactions",
+      "year": 2021,
+      "authors": [
+        "Catharine Oertel",
+        "Patrik Jonell",
+        "Dimosthenis Kontogiorgos",
+        "Kenneth Funes Mora",
+        "Jean-Marc Odobez",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://doi.org/10.3389/frobt.2021.555913"
+    },
+    {
+      "title": "Learner and teacher perspectives on robot-led L2 conversation practice",
+      "year": 2021,
+      "authors": [
+        "Olov Engvall",
+        "José Lopes",
+        "Ronald Cumbal",
+        "Gustav Berndtson",
+        "Ruben Lindström",
+        "Patrik Ekman",
+        "Eric Harmanis",
+        "Emellie Jin",
+        "Elle Johnston",
+        "Gara Tahir",
+        "Michael Mekonnen"
+      ],
+      "keywords": [
+        "Dialog",
+        "Education",
+        "Multi-Party"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1612736/FULLTEXT01.pdf"
+    },
+    {
+      "title": "The Influence of Robot Personality on the Development of Uncanny Feelings",
+      "year": 2021,
+      "authors": [
+        "Maike Paetzel-Prüsmann",
+        "Giulia Perugia",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Perception",
+        "HRI"
+      ],
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563221000789?via%3Dihub"
+    },
+    {
+      "title": "Grounding behaviours with conversational interfaces: effects of embodiment and failures",
+      "year": 2021,
+      "authors": [
+        "Dimosthenis Kontogiorgos",
+        "André Pereira",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/article/10.1007/s12193-021-00366-y#Sec8"
+    },
+    {
+      "title": "I Can See It in Your Eyes: Gaze as an Implicit Cue of Uncanniness and Task Performance in Repeated Interactions With Robots",
+      "year": 2021,
+      "authors": [
+        "Giulia Perugia",
+        "Maike Paetzel-Prüsmann",
+        "Madelene Alanenpää",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://www.frontiersin.org/article/10.3389/frobt.2021.645956"
+    },
+    {
+      "title": "Robot Gaze Can Mediate Participation Imbalance in Groups with Different Skill Levels",
+      "year": 2021,
+      "authors": [
+        "Sarah Gillet",
+        "Ronald Cumbal",
+        "André Pereira",
+        "José Lopes",
+        "Olov Engvall",
+        "Iolanda Leite"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/epdf/10.1145/3434073.3444670"
+    },
+    {
+      "title": "Boosting Robot Credibility and Challenging Gender Norms in Responding to Abusive Behaviour: A Case for Feminist Robots",
+      "year": 2021,
+      "authors": [
+        "Katie Winkle",
+        "Gaspar Isaac Melsión",
+        "Donald McMillan",
+        "Iolanda Leite"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3434074.3446910"
+    },
+    {
+      "title": "A Wizard of Oz Approach to Robotic Therapy for Older Adults with Depressive Symptoms",
+      "year": 2021,
+      "authors": [
+        "Sofia Thunberg",
+        "Fredrik Angström",
+        "Tim Carsting",
+        "Petra Faber",
+        "Jens Gummesson",
+        "Alexander Henne",
+        "Daniel Mastell",
+        "Jesper Mjörnman",
+        "Joel Tell",
+        "Tom Ziemke"
+      ],
+      "keywords": [
+        "Care",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3434074.3447179"
+    },
+    {
+      "title": "Exploring Non-verbal Gaze Behavior in Groups Mediated by an Adaptive Robot",
+      "year": 2021,
+      "authors": [
+        "Catherine F. Weldon",
+        "Sarah Gillet",
+        "Ronald Cumbal",
+        "Iolanda Leite"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3434074.3447192"
+    },
+    {
+      "title": "Autonomous Robot Behaviors for Shaping Group Dynamics",
+      "year": 2021,
+      "authors": [
+        "Sarah Gillet"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3434074.3446364"
+    },
+    {
+      "title": "Conversational Interaction with Social Robots",
+      "year": 2021,
+      "authors": [
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3434074.3444877"
+    },
+    {
+      "title": "Agents Presenting Themselves as Strangers During Privacy Permission Requests: Effects on Disclosure and Privacy Awareness of Children",
+      "year": 2021,
+      "authors": [
+        "Nynke A. Zwart"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "http://essay.utwente.nl/85721/1/Zwart_MA_EEMCS.pdf"
+    },
+    {
+      "title": "Alfie: An Interactive Robot with Moral Compass",
+      "year": 2020,
+      "authors": [
+        "Çiğdem Turan",
+        "Patrick Schramowski",
+        "Constantin Rothkopf",
+        "Kristian Kersting"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3382507.3421163"
+    },
+    {
+      "title": "Behavioural Responses to Robot Conversational Failures",
+      "year": 2020,
+      "authors": [
+        "Dimosthenis Kontogiorgos",
+        "André Pereira",
+        "Boran Sahindal",
+        "Sanne van Waveren",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3319502.3374782"
+    },
+    {
+      "title": "The Persistence of First Impressions: The Effect of Repeated Interactions on the Perception of a Social Robot",
+      "year": 2020,
+      "authors": [
+        "Maike Paetzel",
+        "Giulia Perugia",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3319502.3374786"
+    },
+    {
+      "title": "Uncertainty in robot assisted second language conversation practice",
+      "year": 2020,
+      "authors": [
+        "Ronald Cumbal",
+        "José Lopes",
+        "Olov Engvall"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3371382.3378306"
+    },
+    {
+      "title": "Realtime Engagement Measurement in Human-Computer Interaction",
+      "year": 2020,
+      "authors": [
+        "Ege Kesim",
+        "Tuğçe Numanoğlu",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "M. Tevfik Seygin"
+      ],
+      "keywords": [
+        "Game",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/9302384"
+    },
+    {
+      "title": "Effects of Robot’s Facial Expressions on Children’s Perception of Trustworthiness in First Encounters",
+      "year": 2020,
+      "authors": [
+        "Natalia Calvo",
+        "Giulia Perugia",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Children",
+        "Face",
+        "Perception"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/9223456"
+    },
+    {
+      "title": "Evaluating the possible applications of social robots in the manufacturing industry",
+      "year": 2020,
+      "authors": [
+        "Linn Friis-Liby"
+      ],
+      "keywords": [
+        "Other"
+      ],
+      "link": "https://odr.chalmers.se/bitstream/20.500.12380/301609/1/Application%20Social%20Robotics%20in%20the%20manufacturing%20industry.pdf"
+    },
+    {
+      "title": "Effects of Different Interaction Contexts when Evaluating Gaze Models in HRI",
+      "year": 2020,
+      "authors": [
+        "André Pereira",
+        "Catharine Oertel",
+        "Leonor Fermoselle",
+        "Joseph Mendelson",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Children",
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3319502.3374810"
+    },
+    {
+      "title": "Demonstration of a Social Robot for Control of Remote Autonomous Systems",
+      "year": 2020,
+      "authors": [
+        "José Lopes",
+        "David A. Robb",
+        "Xingkun Liu",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "HRI",
+        "Dialog"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3371382.3378207"
+    },
+    {
+      "title": "Can a Social Robot Be Persuasive Without Losing Children’s Trust?",
+      "year": 2020,
+      "authors": [
+        "Natalia Calvo",
+        "Maha Elgarf",
+        "Christopher Peters",
+        "Giulia Perugia",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3371382.3378272"
+    },
+    {
+      "title": "Natural Language Interaction to Facilitate Mental Models of Remote Robots",
+      "year": 2020,
+      "authors": [
+        "Francisco J. Chiyah Garcia",
+        "José Lopes",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://arxiv.org/pdf/2003.05870.pdf"
+    },
+    {
+      "title": "Conversational Agents for Automated Group Meeting Facilitation",
+      "year": 2020,
+      "authors": [],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://repository.library.northeastern.edu/files/neu:m046qf41d/fulltext.pdf"
+    },
+    {
+      "title": "Exploring the Dependencies between Behavioral and Neuro-physiological Time-series Extracted from Conversations between Humans and Artificial Agents",
+      "year": 2020,
+      "authors": [
+        "Youssef Hmamouche",
+        "Magalie Ochs",
+        "Laurent Prévot",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://hal.archives-ouvertes.fr/hal-02511146/file/ICPRAM_2020_57%20%281%29.pdf"
+    },
+    {
+      "title": "Detection of Listener Uncertainty in Robot-Led Second Language Conversation Practice",
+      "year": 2020,
+      "authors": [
+        "Ronald Cumbal",
+        "José Lopes",
+        "Olov Engvall"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3382507.3418873"
+    },
+    {
+      "title": "Identifying Causal Relationships Between Behavior and Local Brain Activity During Natural Conversation",
+      "year": 2020,
+      "authors": [
+        "Youssef Hmamouche",
+        "Laurent Prévot",
+        "Magalie Ochs",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://isca-speech.org/archive/Interspeech_2020/pdfs/2074.pdf"
+    },
+    {
+      "title": "Gaze Detection in Human-Robot Interaction",
+      "year": 2020,
+      "authors": [
+        "Madelene Alanenpää"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1509570/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Embodiment Effects in Interactions with Failing Robots",
+      "year": 2020,
+      "authors": [
+        "Dimosthenis Kontogiorgos",
+        "Sanne van Waveren",
+        "Olle Wallberg",
+        "André Pereira",
+        "Iolanda Leite",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3313831.3376372"
+    },
+    {
+      "title": "Embodiment and gender interact in alignment to TTS voices",
+      "year": 2020,
+      "authors": [
+        "Michelle Cohn",
+        "Patrik Jonell",
+        "Taylor Kim",
+        "Jonas Beskow",
+        "Georgia Zellou"
+      ],
+      "keywords": [
+        "Gender",
+        "TTS"
+      ],
+      "link": "https://cognitivesciencesociety.org/cogsci20/papers/0044/0044.pdf"
+    },
+    {
+      "title": "Interaction and collaboration in robot-assisted language learning for adults",
+      "year": 2020,
+      "authors": [
+        "Olov Engvall",
+        "José Lopes"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/09588221.2020.1799821"
+    },
+    {
+      "title": "Multimodal corpus of bidirectional conversation of human-human and human-robot interaction during fMRI scanning",
+      "year": 2020,
+      "authors": [
+        "Birgit Rauchbauer",
+        "Youssef Hmamouche",
+        "Brigitte Bigi",
+        "Laurent Prévot",
+        "Magalie Ochs",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Corpus",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://www.aclweb.org/anthology/2020.lrec-1.84.pdf"
+    },
+    {
+      "title": "Engaging Human-Robot Interaction with Batch Reinforcement Learning",
+      "year": 2020,
+      "authors": [
+        "Nusrah Hussain"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": ""
+    },
+    {
+      "title": "RDG-Map: A Multimodal Corpus of Pedagogical Human-Agent Spoken Interactions",
+      "year": 2020,
+      "authors": [
+        "Maike Paetzel",
+        "Deepthi Karkada",
+        "Ramesh Manuvinakurike"
+      ],
+      "keywords": [
+        "Corpus",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://www.aclweb.org/anthology/2020.lrec-1.75.pdf"
+    },
+    {
+      "title": "Neuroscience to Investigate Social Mechanisms Involved in Human-Robot Interactions",
+      "year": 2020,
+      "authors": [
+        "Youssef Hmamouche",
+        "Magalie Ochs",
+        "Laurent Prévot",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3395035.3425263"
+    },
+    {
+      "title": "On the Role of Personality and Empathy in Human-Human, Human-Agent and Human-Robot Mimicry",
+      "year": 2020,
+      "authors": [
+        "Giulia Perugia",
+        "Maike Paetzel",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Face",
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-62056-1_11"
+    },
+    {
+      "title": "A multimodal Corpus of Human-Human and Human-Robot conversations including synchronized behavioral and neurophysiological recordings",
+      "year": 2020,
+      "authors": [
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://hal.archives-ouvertes.fr/hal-02916070/document"
+    },
+    {
+      "title": "Robot‐assisted detection of subclinical dementia: Progress report and preliminary findings: Neuropsychiatry and behavioral neurology: The neuropsychiatry of subjective cognitive disorder and prodromal AD",
+      "year": 2020,
+      "authors": [
+        "Krister Håkansson",
+        "Jonas Beskow",
+        "Hedvig Kjellström",
+        "Joakim Gustafson",
+        "Alexandre Bonnard",
+        "Marie Rydén",
+        "Sara Stormoen",
+        "Göran Hagman",
+        "Ulrika Akenine",
+        "Kristal Morales Pérez",
+        "Gustav Henter",
+        "Maria Sundell",
+        "Miia Kivipelto"
+      ],
+      "keywords": [
+        "Care",
+        "Neuroscience"
+      ],
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.043311"
+    },
+    {
+      "title": "Detecting Conversational Failures in Task-Oriented Human-Robot Interactions",
+      "year": 2020,
+      "authors": [
+        "Boran Sahindal"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1424499/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Robot Interaction Styles for Conversation Practice in Second Language Learning",
+      "year": 2020,
+      "authors": [
+        "Olov Engvall",
+        "José Lopes",
+        "Anna Åhlund"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/content/pdf/10.1007/s12369-020-00635-y.pdf"
+    },
+    {
+      "title": "The Novelty in the Uncanny",
+      "year": 2020,
+      "authors": [
+        "Maike Paetzel-Prüsmann"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1464377/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Using knowledge graphs and behaviour trees for feedback-aware presentation agents",
+      "year": 2020,
+      "authors": [
+        "Nils Axelsson",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3383652.3423884"
+    },
+    {
+      "title": "The Effect of Robot’s Facial Expression on Children’s First Impressions of Trustworthiness",
+      "year": 2020,
+      "authors": [
+        "Natalia Calvo-Barajas",
+        "Giulia Perugia",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Children",
+        "Face"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/9223456"
+    },
+    {
+      "title": "Sorry, I didn’t understand that",
+      "year": 2020,
+      "authors": [
+        "Mikaela Åstrand"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "http://www.diva-portal.org/smash/get/diva2:1424467/FULLTEXT01.pdf"
+    },
+    {
+      "title": "A Multimodal Robot-Driven Meeting Facilitation System for Group Decision-Making Sessions",
+      "year": 2019,
+      "authors": [
+        "Ameneh Shamekhi",
+        "Timothy W. Bickmore"
+      ],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3340555.3353756"
+    },
+    {
+      "title": "Brain activity during reciprocal social interaction investigated using conversational robots as control condition",
+      "year": 2019,
+      "authors": [
+        "Birgit Rauchbauer",
+        "Bruno Nazarian",
+        "Morgane Bourhis",
+        "Magalie Ochs",
+        "Laurent Prévot",
+        "Thierry Chaminade"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0033"
+    },
+    {
+      "title": "Challenges in Collaborative HRI for Remote Robot Teams",
+      "year": 2019,
+      "authors": [
+        "Helen Hastie",
+        "David A. Robb",
+        "José Lopes",
+        "Muneeb Ahmad",
+        "Pierre Le Bras",
+        "Xingkun Liu",
+        "Ronald P.A. Petrick",
+        "Katrin Lohan",
+        "Mike J. Chantler"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://arxiv.org/abs/1905.07379"
+    },
+    {
+      "title": "Collaborative User Responses in Multiparty Interaction with a Couples Counselor Robot",
+      "year": 2019,
+      "authors": [
+        "Dina Utami",
+        "Timothy W. Bickmore"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8673177"
+    },
+    {
+      "title": "Computational Framework for Facilitating Intimate Dyadic Communication",
+      "year": 2019,
+      "authors": [
+        "Dina Utami"
+      ],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://repository.library.northeastern.edu/files/neu:m044w359c/fulltext.pdf"
+    },
+    {
+      "title": "Equipping social robots with culturally-sensitive facial expressions of emotion using data-driven methods",
+      "year": 2019,
+      "authors": [
+        "Chaona Chen",
+        "Laura B. Hensel",
+        "Yaocong Duan",
+        "Robin A.A. Ince",
+        "Oliver G.B. Garrod",
+        "Jonas Beskow",
+        "Rachael E. Jack",
+        "Philippe G. Schyns"
+      ],
+      "keywords": [
+        "Face",
+        "Perception",
+        "Data-driven"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8756570"
+    },
+    {
+      "title": "Health Counseling by Robots: Modallities for Breastfeeding Promotion",
+      "year": 2019,
+      "authors": [
+        "Prasanth Murali",
+        "Teresa O'Leary",
+        "Ameneh Shamekhi",
+        "Timothy W. Bickmore"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8956342"
+    },
+    {
+      "title": "Learner feedback on robot-led language cafés",
+      "year": 2019,
+      "authors": [
+        "Ruben Lindström",
+        "Gustav Berndtson"
+      ],
+      "keywords": [
+        "Education",
+        "Multi-Party"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1351895/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Learning Non-verbal Behavior for a Social Robot from YouTube Videos",
+      "year": 2019,
+      "authors": [
+        "Patrik Jonell",
+        "Taras Kucherenko",
+        "Erik Ekstedt",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Data-driven",
+        "Face"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1357431/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Let Me Get To Know You Better: Can Interactions Help to Overcome Uncanny Feelings",
+      "year": 2019,
+      "authors": [
+        "Maike Paetzel",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3349537.3351894"
+    },
+    {
+      "title": "Modelling adaptive Presentations in Human-Robot Interaction using Behaviour Trees",
+      "year": 2019,
+      "authors": [
+        "Nils Axelsson",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://www.aclweb.org/anthology/W19-5940/"
+    },
+    {
+      "title": "Fundamental Frequency Accommodation in Multi-Party Human-Robot Game Interactions: The Effect of Winning or Losing",
+      "year": 2019,
+      "authors": [
+        "Omnia Ibrahim",
+        "Gabriel Skantze",
+        "Sabine Stoll",
+        "Volker Dellwo"
+      ],
+      "keywords": [
+        "Game",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2496.pdf"
+    },
+    {
+      "title": "Human-centered Robot Interaction: Emotional Engagement Factors in Anthropomorphic Social Robots for Finnish Older Adults",
+      "year": 2019,
+      "authors": [
+        "Dominique Yanine Lemmi Gonzalez"
+      ],
+      "keywords": [
+        "Care",
+        "Gender",
+        "HRI"
+      ],
+      "link": "https://www.theseus.fi/bitstream/handle/10024/171899/Thesis_DominiqueLemmi_290519.pdf?sequence=2"
+    },
+    {
+      "title": "On talking heads, social robots and what they can teach us",
+      "year": 2019,
+      "authors": [
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Dialog",
+        "Perception"
+      ],
+      "link": "https://assta.org/proceedings/ICPhS2019/papers/ICPhS_56.pdf"
+    },
+    {
+      "title": "The trade-off between interaction time and social facilitation with collaborative social robots",
+      "year": 2019,
+      "authors": [
+        "Dimosthenis Kontogiorgos",
+        "André Pereira",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1316286/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Towards Speech Technologies for Romani Language in Slovakia",
+      "year": 2019,
+      "authors": [
+        "Milan Rusko",
+        "Sakhia Darjaa",
+        "Marián Trnka",
+        "Róberto Sabo",
+        "Štefan Beňuš"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.60.pdf"
+    },
+    {
+      "title": "Responsive Joint Attention in Human-Robot Interaction",
+      "year": 2019,
+      "authors": [
+        "André Pereira",
+        "Catharine Oertel",
+        "Leonor Fermoselle",
+        "Joseph Mendelson",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8968130"
+    },
+    {
+      "title": "Teaching L1 and L2 communication skills with a robotic head",
+      "year": 2019,
+      "authors": [
+        "Štefan Beňuš",
+        "Róbert Sabo",
+        "Marián Trnka"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/9040019"
+    },
+    {
+      "title": "Practically Human",
+      "year": 2019,
+      "authors": [
+        "Karin Victorin"
+      ],
+      "keywords": [
+        "Gender"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1331443/FULLTEXT01.pdf"
+    },
+    {
+      "title": "The Effects of Anthropomorphism and Non-verbal Social Behaviour in Virtual Assistants",
+      "year": 2019,
+      "authors": [
+        "Dimosthenis Kontogiorgos",
+        "André Pereira",
+        "Olle Andersson",
+        "Marco Koivisto",
+        "Elena Gonzalez Rabal",
+        "Ville Vartiainen",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3308532.3329466"
+    },
+    {
+      "title": "Towards a conversational agent for remote robot-human teaming",
+      "year": 2019,
+      "authors": [
+        "José Lopes",
+        "David A. Robb",
+        "Muneeb Ahmad",
+        "Xingkun Liu",
+        "Katrin Lohan",
+        "Helen Hastie"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8673286"
+    },
+    {
+      "title": "Who do You Want to Talkt to?: User-centered Design for Human-like Robot Faces",
+      "year": 2019,
+      "authors": [
+        "Tanja Heuer"
+      ],
+      "keywords": [
+        "Face",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3340764.3344878"
+    },
+    {
+      "title": "Creating Dynamic Robot Utterances in Human-Robot Social Interaction",
+      "year": 2019,
+      "authors": [
+        "Esoon Ko",
+        "Philip Andersson"
+      ],
+      "keywords": [
+        "Dialog",
+        "Education"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1360879/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Word guessing game with a social robotic head",
+      "year": 2019,
+      "authors": [
+        "Štefan Beňuš",
+        "Róbert Sabo",
+        "Marián Trnka"
+      ],
+      "keywords": [
+        "Game",
+        "TTS"
+      ],
+      "link": "http://ceur-ws.org/Vol-2473/invited1.pdf"
+    },
+    {
+      "title": "The Attribution of Emotional State – How Embodiment Features and Social Traits Affect the Perception of an Artificial Agent",
+      "year": 2018,
+      "authors": [
+        "Maike Paetzel",
+        "Giovanna Varni",
+        "Isabelle Hupont",
+        "Mohamed Chetouani",
+        "Christopher Peters",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8525700"
+    },
+    {
+      "title": "Reverse Engineering Psychologically Valid Facial Expressions of Emotion into Social Robots",
+      "year": 2018,
+      "authors": [
+        "Chaona Chen",
+        "Oliver G.B. Garrod",
+        "Jiayu Zhan",
+        "Jonas Beskow",
+        "Philippe G. Schyns",
+        "Rachael E. Jack"
+      ],
+      "keywords": [
+        "Data-driven",
+        "Face",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8373865"
+    },
+    {
+      "title": "A Taxonomy in Robot-Assisted Training: Current Trends, Needs and Challenges",
+      "year": 2018,
+      "authors": [
+        "Konstantinos Tsiakas",
+        "Maria Kyrarini",
+        "Vangelis Karkaletsis",
+        "Fillia Maekdon",
+        "Oliver Korn"
+      ],
+      "keywords": [
+        "Education",
+        "HRI"
+      ],
+      "link": "https://www.mdpi.com/2227-7080/6/4/119"
+    },
+    {
+      "title": "FARMI: A FrAmework for Recording Multi-Modal Interactions",
+      "year": 2018,
+      "authors": [
+        "Patrik Jonell",
+        "Mattias Bystedt",
+        "Per Fallgren",
+        "Dimosthenis Kontogiorgos",
+        "José Lopes",
+        "Zofia Malisz",
+        "Samuel Mascarenhas",
+        "Catharine Oertel",
+        "Eran Raveh",
+        "Todd Shore"
+      ],
+      "keywords": [
+        "Game",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://www.aclweb.org/anthology/L18-1626.pdf"
+    },
+    {
+      "title": "Far-Field Audio-Visual Scene Perception of Multi-Party Human-Robot Interaction for Children and Adults",
+      "year": 2018,
+      "authors": [
+        "Antigoni Tsiami",
+        "Panagiotis Paraskevas Filntisis",
+        "Niki Efthymiou",
+        "Petros Koutras",
+        "Gerasimos Potamianos",
+        "Petros Maragos"
+      ],
+      "keywords": [
+        "Children",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8462425"
+    },
+    {
+      "title": "Data Driven Non-Verbal Behavior Generation for Humanoid Robots",
+      "year": 2018,
+      "authors": [
+        "Taras Kucherenko"
+      ],
+      "keywords": [
+        "Data-driven"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3242969.3264970"
+    },
+    {
+      "title": "Enabling Novel Sensing and Interaction with Everyday Objects using Commercial RFID Systems",
+      "year": 2018,
+      "authors": [
+        "Hanchuan Li"
+      ],
+      "keywords": [
+        "Other"
+      ],
+      "link": "https://digital.lib.washington.edu/researchworks/handle/1773/42266"
+    },
+    {
+      "title": "Brain Neurophysiology to Objectify the Social Competence of Conversational Agents",
+      "year": 2018,
+      "authors": [
+        "Thierry Chaminade",
+        "Birgit Rauchbauer",
+        "Bruno Nazarian",
+        "Morgane Bourhis",
+        "Magalie Ochs",
+        "Laurent Prévot"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3284432.3287177"
+    },
+    {
+      "title": "Expressing Coherent Personality with Incremental Acquisition of Multimodal Behaviors",
+      "year": 2018,
+      "authors": [
+        "Pedro Mota",
+        "Maike Paetzel",
+        "Andrea Fox",
+        "Aida Amini",
+        "Siddarth Srinivasan",
+        "James Kennedy",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8525763"
+    },
+    {
+      "title": "Multi3: Multi-sensory Perception System of Multi-modal Child Interaction with Multiple Robots",
+      "year": 2018,
+      "authors": [
+        "Antigoni Tsiami",
+        "Petros Koutras",
+        "Niki Efthymiou",
+        "Panagiotis Paraskevas Filntisis",
+        "Gerasimos Potamianos",
+        "Petros Maragos"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8461210"
+    },
+    {
+      "title": "“Do you want to take a short survey?”: Evaluating and improving the UX and VUI of a survey skill in the social robot Furhat: a qualitative case study",
+      "year": 2018,
+      "authors": [
+        "Camilla Bengtsson",
+        "Caroline Englund"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1233100/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Adaptive Behavior Generation for Child-Robot-Interaction",
+      "year": 2018,
+      "authors": [
+        "Jacqueline Hemminghaus",
+        "Stefan Kopp"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3173386.3176916"
+    },
+    {
+      "title": "Conceptualizing Embodied Automation to Increase Transfer of Tacit knowledge in the Learning Factory",
+      "year": 2018,
+      "authors": [
+        "Åsa Fast-Berglund",
+        "Peter Thorvald",
+        "Erik Billing",
+        "Adam Palmquist",
+        "David Romero",
+        "Georg Weichhart"
+      ],
+      "keywords": [
+        "HRI",
+        "Game"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8710482"
+    },
+    {
+      "title": "Challenges in Exploiting Conversational Memory in Human-Agent Interaction",
+      "year": 2018,
+      "authors": [
+        "Joana Campos",
+        "James Kennedy",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Dialog",
+        "HRI"
+      ],
+      "link": "http://ifaamas.org/Proceedings/aamas2018/pdfs/p1649.pdf"
+    },
+    {
+      "title": "IDEA: An Interactive Dialogue Translation Demo System Using Furhat Robots",
+      "year": 2018,
+      "authors": [
+        "Jinhua Du",
+        "Darragh Blake",
+        "Longyue Wang",
+        "Clare Conran",
+        "Declan Mckibben",
+        "Andy Way"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-10997-4_43"
+    },
+    {
+      "title": "Designing joint attention systems for robots that assist children with autism spectrum disorders",
+      "year": 2018,
+      "authors": [
+        "Leonor Fermoselle"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:1230454/FULLTEXT02.pdf"
+    },
+    {
+      "title": "Investigating the dimensions of conversational agents’ social competence using objective neurophysiological measurements",
+      "year": 2018,
+      "authors": [
+        "Thierry Chaminade",
+        "Birgit Rauchbauer",
+        "Bruno Nazarian",
+        "Morgane Bourhis",
+        "Magalie Ochs",
+        "Laurent Prévot"
+      ],
+      "keywords": [
+        "HRI",
+        "Neuroscience"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3281151.3281162"
+    },
+    {
+      "title": "A First Visit to the Robot Language Café",
+      "year": 2017,
+      "authors": [
+        "José Lopes",
+        "Olov Engvall",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Education",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://www.isca-speech.org/archive/SLaTE_2017/pdfs/SLaTE_2017_paper_31.pdf"
+    },
+    {
+      "title": "A Robotic Couples Counselor for Promoting Positive Communication",
+      "year": 2017,
+      "authors": [
+        "Dina Utami",
+        "Timothy W. Bickmore",
+        "Louis J. Kruger"
+      ],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8172310"
+    },
+    {
+      "title": "Investigating the Influence of Embodiment on Facial Mimicry in HRI Using Computer Vision-Based Measures",
+      "year": 2017,
+      "authors": [
+        "Maike Paetzel",
+        "Giovanna Varni",
+        "Isabelle Hupont",
+        "Mohamed Chetouani",
+        "Christopher Peters",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8172361"
+    },
+    {
+      "title": "Exploring Turn-taking Cues in Multi-party Human-robot Discussions about Objects",
+      "year": 2017,
+      "authors": [
+        "Gabriel Skantze",
+        "Martin Johansson",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Dialog",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2818346.2820749"
+    },
+    {
+      "title": "RoboCOP: A Robotic Coach for Oral Presentations",
+      "year": 2017,
+      "authors": [
+        "Ha Trinh",
+        "Reza Asadi",
+        "Darren Edge",
+        "Timothy W. Bickmore"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/3090092"
+    },
+    {
+      "title": "Towards Adaptive Social Behavior Generation for Assistive Robots Using Reinforcement Learning",
+      "year": 2017,
+      "authors": [
+        "Jacqueline Hemminghaus",
+        "Stefan Kopp"
+      ],
+      "keywords": [
+        "Game",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8534827"
+    },
+    {
+      "title": "Creating Prosodic Synchrony for a Robot Co-player in a Speech controlled Game for Children",
+      "year": 2017,
+      "authors": [
+        "Najmeh Sadoughi",
+        "André Pereira",
+        "Rishub Jain",
+        "Iolanda Leite",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Children",
+        "Data-driven",
+        "Game",
+        "TTS"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8534836"
+    },
+    {
+      "title": "Predicting and Regulating Participation Equality in Human-Robot Conversations: Effects of Age and Gender",
+      "year": 2017,
+      "authors": [
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Gender",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/8534795"
+    },
+    {
+      "title": "Machine Learning and Social Robotics for Detecting Early Signs of Dementia",
+      "year": 2017,
+      "authors": [
+        "Patrik Jonell",
+        "Joseph Mendelson",
+        "Thomas Storskog",
+        "Göran Hagman",
+        "Per Östberg",
+        "Iolanda Leite",
+        "Taras Kucherenko",
+        "Olga Mikheeva",
+        "Ulrika Akenine",
+        "Vesna Jelic",
+        "Alina Solomon",
+        "Jonas Beskow",
+        "Joakim Gustafson",
+        "Miia Kivipelto",
+        "Hedvig Kjellström"
+      ],
+      "keywords": [
+        "Care"
+      ],
+      "link": "https://arxiv.org/abs/1709.01613"
+    },
+    {
+      "title": "Psychotherapists’ interest in using the Furhat social robot for clinical training",
+      "year": 2017,
+      "authors": [
+        "Robert Johansson",
+        "Sam Thellman",
+        "Gabriel Skantze",
+        "Arne Jönsson"
+      ],
+      "keywords": [
+        "Care",
+        "Education",
+        "HRI"
+      ],
+      "link": "https://www.ida.liu.se/~arnjo82/papers/Johansson%20et%20al%202017%20SweCog%20final.pdf"
+    },
+    {
+      "title": "Analysis of Engagement and User Experience with a Laughter Responsive Social Robot",
+      "year": 2017,
+      "authors": [
+        "Bekir Berker Türker",
+        "Zana Buçinca",
+        "Engin Erzin",
+        "Yücel Yemez",
+        "Metin Sezgin"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1395.PDF"
+    },
+    {
+      "title": "A user experience evaluation of a human-like interface: A study of the robot Furhat provided by Furhat Robotics",
+      "year": 2017,
+      "authors": [
+        "Esra Kahraman"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1130572&dswid=6863"
+    },
+    {
+      "title": "Crowd-Sourced Design of Artificial Attentive Listeners",
+      "year": 2017,
+      "authors": [
+        "Catharine Oertel",
+        "Patrik Jonell",
+        "Dimosthenis Kontogiorgos",
+        "Joseph Mendelson",
+        "Jonas Beskow",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "HRI",
+        "TTS"
+      ],
+      "link": "https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0926.PDF"
+    },
+    {
+      "title": "Exploring the Link between Self-assessed Mimicry and Embodiment in HRI",
+      "year": 2017,
+      "authors": [
+        "Maike Paetzel",
+        "Isabelle Hupont",
+        "Giovanna Varni",
+        "Mohamed Chetouani",
+        "Christopher Peters",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Face",
+        "HRI"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3029798.3038317"
+    },
+    {
+      "title": "A Multidimensional Perspective on the Uncanny Valley Effect: Studying the Interplay Between a Robot’s Appearance and Interaction Strategy",
+      "year": 2017,
+      "authors": [
+        "Maike Paetzel"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/3029798.3034825"
+    },
+    {
+      "title": "Speech-Based Real-Time Presentation Tracking Using Semantic Matching",
+      "year": 2017,
+      "authors": [
+        "Reza Asadi"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://repository.library.northeastern.edu/files/neu:cj82r148r/fulltext.pdf"
+    },
+    {
+      "title": "Moveable facial features in a social mediator",
+      "year": 2017,
+      "authors": [
+        "Muhammad Sikandar Lal Khan",
+        "Shafiq ur Réhman",
+        "Usman Naeem",
+        "Jonas Beskow",
+        "Haiob Li"
+      ],
+      "keywords": [
+        "Face",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-67401-8_23"
+    },
+    {
+      "title": "VOILA: An Optimised Dialogue System for Interactively Learning Visually-Grounded Word Meanings (Demonstration System)",
+      "year": 2017,
+      "authors": [
+        "Yanchao Yu",
+        "Arash Eshghi",
+        "Oliver Lemon"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://www.aclweb.org/anthology/W17-5524.pdf"
+    },
+    {
+      "title": "Look but Don’t Stare: Mutual Gaze Interaction in Social Robots",
+      "year": 2017,
+      "authors": [
+        "Yanxia Zhang",
+        "Jonas Beskow",
+        "Hedvig Kjellström"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-70022-9_55"
+    },
+    {
+      "title": "How to Catch A Werewolf",
+      "year": 2017,
+      "authors": [
+        "Catharine Oertel",
+        "Samuel Mascarenhas",
+        "Zofia Malisz",
+        "José Lopes",
+        "Joakim Gustafson",
+        "Dimosthenis Kontogiorgos",
+        "Patrik Jonell",
+        "Joseph Mendelson",
+        "Todd Shore",
+        "Jonas Beskow",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Game",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "http://artes.ucp.pt/enterface17/proposals/02.Final%20Proposal_Catharine.Oertel.pdf"
+    },
+    {
+      "title": "A Psychotherapy Training Environment with Virtual Patients Implemented Using the Furhat Robot Platform",
+      "year": 2017,
+      "authors": [
+        "Robert Johansson",
+        "Gabriel Skantze",
+        "Arne Jönsson"
+      ],
+      "keywords": [
+        "Care",
+        "Education",
+        "HRI"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-67401-8_20"
+    },
+    {
+      "title": "Sorry what was your name again?",
+      "year": 2017,
+      "authors": [
+        "Maria Kanov"
+      ],
+      "keywords": [
+        "Care",
+        "Education"
+      ],
+      "link": "https://kth.diva-portal.org/smash/get/diva2:1159704/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Effects of Multimodal Cues on Children’s Perception of Uncanniness in a Social Robot",
+      "year": 2016,
+      "authors": [
+        "Maike Paetzel",
+        "Christopher Peters",
+        "Ingela Nyström",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Children",
+        "Gender",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2993148.2993157"
+    },
+    {
+      "title": "Imitating Human Movement with Teleoperated Robotic Head",
+      "year": 2016,
+      "authors": [
+        "Prizanshu Agarwal",
+        "Samer Al Moubayed",
+        "Alexander Alspach",
+        "Joohyung Kim",
+        "Elizabeth J. Carter",
+        "Jill Fain Lehman",
+        "Katsu Yamane"
+      ],
+      "keywords": [
+        "Other"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/7745184"
+    },
+    {
+      "title": "Preliminary results from using a back-projected robot head in uncanny valley research",
+      "year": 2016,
+      "authors": [
+        "Maike Paetzel",
+        "Christopher Peters",
+        "Ingela Nyström",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-308428"
+    },
+    {
+      "title": "BabyRobot – Next Generation Social Robots",
+      "year": 2016,
+      "authors": [
+        "Alexandros Potaminos",
+        "Costas Tzafestas",
+        "Elias Iosif",
+        "Franziska Kirstein",
+        "Petros Maragos",
+        "Kerstin Dauthenhahn",
+        "Joakim Gustafson",
+        "Johan Erland Østergaard",
+        "Stefan Kopp",
+        "Preben Wik",
+        "Oliver Pietquin",
+        "Samer Al Moubayed"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://childrobotinteraction.files.wordpress.com/2016/04/babyrobot-next-generation-social-robots_final-version.pdf"
+    },
+    {
+      "title": "ID-Match: A Hybrid Computer Vision and RFID System for Recognizing Individuals in Groups",
+      "year": 2016,
+      "authors": [
+        "Hanchuan Li",
+        "Peijin Zhang",
+        "Samer Al Moubayed",
+        "Shwetak N. Patel",
+        "Alanson P. Sample"
+      ],
+      "keywords": [
+        "Gaze",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2858036.2858209"
+    },
+    {
+      "title": "Semi-situated Learning of Verbal and Nonverbal Content for Repeated Human-Robot Interaction",
+      "year": 2016,
+      "authors": [
+        "Iolanda Leite",
+        "André Pereira",
+        "Allison Funkhouser",
+        "Boyang Li",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Game",
+        "Dialog"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2993148.2993190"
+    },
+    {
+      "title": "The Influence of Appearance and Interaction Strategy of a Social Robot on the Feeling of Uncannines in Humans",
+      "year": 2016,
+      "authors": [
+        "Maike Paetzel"
+      ],
+      "keywords": [
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2993148.2997612"
+    },
+    {
+      "title": "A multi-party multi-modal dataset for focus of visual attention in human-human and human-robot interaction",
+      "year": 2016,
+      "authors": [
+        "Kalin Stefanov",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Corpus",
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://www.aclweb.org/anthology/L16-1703.pdf"
+    },
+    {
+      "title": "The Robot Who Knew Too Much: Toward Understanding the Privacy/Personalization Trade-Off in Child-Robot Conversation",
+      "year": 2016,
+      "authors": [
+        "Iolanda Leite",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Children",
+        "Game",
+        "Perception"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2930674.2930687"
+    },
+    {
+      "title": "Adaptive Behavior Generation for Multimodal Child-Robot-Interaction",
+      "year": 2016,
+      "authors": [
+        "Jacqueline Hemminghaus",
+        "Stefan Kopp"
+      ],
+      "keywords": [
+        "Children",
+        "HRI"
+      ],
+      "link": "https://repository.ubn.ru.nl/bitstream/handle/2066/162512/162512.pdf"
+    },
+    {
+      "title": "Active Speaker Detection in Human Machine Multiparty Dialogue Using Visual Prosody Information",
+      "year": 2016,
+      "authors": [
+        "Fasih Haider",
+        "Nick Campbell",
+        "Saturnino Luz"
+      ],
+      "keywords": [
+        "Gaze",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/7906033"
+    },
+    {
+      "title": "Annotation of Utterances for Conversational Nonverbal Behaviors",
+      "year": 2016,
+      "authors": [
+        "Allison Funkhouser",
+        "Reid Simmons"
+      ],
+      "keywords": [
+        "Other"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-47437-3_51"
+    },
+    {
+      "title": "Making Turn-Taking Decisions for an Active Listening Robot for Memory Training",
+      "year": 2016,
+      "authors": [
+        "Martin Johansson",
+        "Tatsuro Hori",
+        "Gabriel Skantze",
+        "Anja Höthker",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-47437-3_92"
+    },
+    {
+      "title": "Real-Time Coordination in Human-Robot Interaction Using Face and Voice",
+      "year": 2016,
+      "authors": [
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://ojs.aaai.org/index.php/aimagazine/article/view/2686"
+    },
+    {
+      "title": "Congruency matters – How ambiguous gender cues increase a robot’s uncanniness",
+      "year": 2016,
+      "authors": [
+        "Maike Paetzel",
+        "Christopher Peters",
+        "Ingela Nyström",
+        "Ginevra Castellano"
+      ],
+      "keywords": [
+        "Gender",
+        "HRI",
+        "Perception"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-47437-3_39"
+    },
+    {
+      "title": "A Machine Learning Approach to Dialogue Act Classification in Human-Robot Conversations",
+      "year": 2015,
+      "authors": [
+        "Nina Olofsson",
+        "Nivin Fakih"
+      ],
+      "keywords": [
+        "Dialog",
+        "Education"
+      ],
+      "link": "https://kth.instructure.com/files/3197697/download?download_frd=1"
+    },
+    {
+      "title": "Modelling situated human-robot interaction using IrisTK",
+      "year": 2015,
+      "authors": [
+        "Gabriel Skantze",
+        "Martin Johansson"
+      ],
+      "keywords": [
+        "Dialog",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://www.aclweb.org/anthology/W15-4624/"
+    },
+    {
+      "title": "Opportunities and Obligations to Take Turns in Collaborative Multi-Party Human-Robot Interaction",
+      "year": 2015,
+      "authors": [
+        "Martin Johansson",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Data-driven",
+        "Dialog",
+        "Multi-Party"
+      ],
+      "link": "https://www.aclweb.org/anthology/W15-4642/"
+    },
+    {
+      "title": "Regulating Turn-Taking in Multi-child Spoken Interaction",
+      "year": 2015,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Children",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-21996-7_40"
+    },
+    {
+      "title": "A Collaborative Human-Robot Game as a Test-bed for Modelling Multi-party, Situated Interaction",
+      "year": 2015,
+      "authors": [
+        "Gabriel Skantze",
+        "Martin Johansson",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Game",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-21996-7_37"
+    },
+    {
+      "title": "A physical robot’s effect on vocabulary learning",
+      "year": 2015,
+      "authors": [
+        "Andreas Wedenborn"
+      ],
+      "keywords": [
+        "Education"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:886159/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Design and Architecture of a Robot-Child Speech-Controlled Game",
+      "year": 2015,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jill Fain Lehman"
+      ],
+      "keywords": [
+        "Children",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2701973.2702041"
+    },
+    {
+      "title": "Can You Read My Face?",
+      "year": 2015,
+      "authors": [
+        "Nicole Mirnig",
+        "Ewald Strasser",
+        "Astrid Weiss",
+        "Barbara Kühnlenz",
+        "Dirk Wollherr",
+        "Manfred Tscheligi"
+      ],
+      "keywords": [
+        "Face"
+      ],
+      "link": "https://link.springer.com/article/10.1007%2Fs12369-014-0261-z"
+    },
+    {
+      "title": "Using a robot head with a 3D face mask as a communication medium for telepresence",
+      "year": 2015,
+      "authors": [
+        "Magnus Gudmandsen"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:843594/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Mole madness – a multi-child, fast-paced, speech-controlled game",
+      "year": 2015,
+      "authors": [
+        "Jill Fain Lehman",
+        "Samer Al Moubayed"
+      ],
+      "keywords": [
+        "Children",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "http://disneyresearch.s3.amazonaws.com/wp-content/uploads/20150327234927/Mole-Madness-A-Multi-Child-Fast-Paced-Speech-Controlled-Game-Paper.pdf"
+    },
+    {
+      "title": "Human-Robot Collaborative Tutoring using Multiparty Multimodal Spoken Dialogue",
+      "year": 2014,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Bajibabu Bollepalli",
+        "Joakim Gustafson",
+        "Ahmed Hussen-Abdelaziz",
+        "Martin Johansson",
+        "Maria Koutsombogera",
+        "José Lopes",
+        "Jekaterina Novikova",
+        "Catharine Oertel",
+        "Gabriel Skantze",
+        "Kalin Stefanov",
+        "Gül Varol"
+      ],
+      "keywords": [
+        "Corpus",
+        "Dialog",
+        "Furhat",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/8542606"
+    },
+    {
+      "title": "Spontaneous Spoken Dialogues with the Furhat Human-like Robot Head",
+      "year": 2014,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Dialog",
+        "Furhat",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2559636.2559781"
+    },
+    {
+      "title": "Tutoring Robots: Multiparty multimodal social dialogue with an embodied tutor",
+      "year": 2014,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Bajibabu Bollepalli",
+        "Ahmed Hussen-Abdelaziz",
+        "Martin Johansson",
+        "Maria Koutsombogera",
+        "José Lopes",
+        "Jekaterina Novikova",
+        "Catharine Oertel",
+        "Gabriel Skantze",
+        "Kalin Stefanov",
+        "Gül Varol"
+      ],
+      "keywords": [
+        "Education",
+        "Game",
+        "Multi-Party"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-642-55143-7_4"
+    },
+    {
+      "title": "Screen feedback in human-robot interaction: How to enhance robot expressiveness",
+      "year": 2014,
+      "authors": [
+        "Nicole Mirnig",
+        "Yeow Kee Tan",
+        "Tai Wen Chang",
+        "Yuan Wei Chua",
+        "Tran Anh Dung",
+        "Haizhou Li",
+        "Manfred Tscheligi"
+      ],
+      "keywords": [
+        "Face",
+        "Game",
+        "HRI"
+      ],
+      "link": "https://ieeexplore.ieee.org/abstract/document/6926257"
+    },
+    {
+      "title": "Turn-taking, feedback and joint attention in situated human-robot interaction",
+      "year": 2014,
+      "authors": [
+        "Gabriel Skantze",
+        "Anna Hjalmarsson",
+        "Catharine Oertel"
+      ],
+      "keywords": [
+        "Dialog",
+        "Gaze",
+        "HRI"
+      ],
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S016763931400051X"
+    },
+    {
+      "title": "Face-to-Face with a Robot: What do we actually talk about?",
+      "year": 2013,
+      "authors": [
+        "Nicole Mirnig",
+        "Astrid Weiss",
+        "Gabriel Skantze",
+        "Samer Al Moubayed",
+        "Joakim Gustafson",
+        "Jonas Beskow",
+        "Björn Granström",
+        "Manfred Tscheligi"
+      ],
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://www.worldscientific.com/doi/10.1142/S0219843613500114"
+    },
+    {
+      "title": "Head Pose Patterns in Multiparty Human-Robot Team-Building Interactions",
+      "year": 2013,
+      "authors": [
+        "Martin Johansson",
+        "Gabriel Skantze",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Corpus",
+        "Dialog",
+        "Multi-Party"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-319-02675-6_35"
+    },
+    {
+      "title": "Replicating the emotions of a facial expression on a Furhat robot face using a kinect input",
+      "year": 2013,
+      "authors": [
+        "Thomas Sjöholm",
+        "David Karlbom"
+      ],
+      "keywords": [
+        "Face"
+      ],
+      "link": "http://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group6Gabriel/report/report_david_thomas.pdf"
+    },
+    {
+      "title": "The furhat back-projected humanoid head-lip reading, gaze and multi-party interaction",
+      "year": 2013,
+      "authors": [
+        "Samer Al Moubayed",
+        "Gabriel Skantze",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://www.worldscientific.com/doi/abs/10.1142/S0219843613500059"
+    },
+    {
+      "title": "The Furhat Social Companion Talking Head",
+      "year": 2013,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_0747.pdf"
+    },
+    {
+      "title": "Towards developing a model for group involvement and individual engagement",
+      "year": 2013,
+      "authors": [
+        "Catharine Oertel"
+      ],
+      "keywords": [
+        "Dialog",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/abs/10.1145/2522848.2532196"
+    },
+    {
+      "title": "Telepresence using Kinect and an animated robotic face: An experimental study regarding the sufficiency of using a subset of the CANDIDE-3 model and the Microsoft Kinect Face Tracking device for capturing and animating the most typical facial expressions",
+      "year": 2013,
+      "authors": [
+        "Johannes Linder",
+        "Magnus Gudmandsen"
+      ],
+      "keywords": [
+        "Face",
+        "Perception"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:871461/FULLTEXT01.pdf"
+    },
+    {
+      "title": "Exploring the Effects of Gaze and Pauses in Situated Human-Robot Interaction",
+      "year": 2013,
+      "authors": [
+        "Gabriel Skantze",
+        "Anna Hjalmarsson",
+        "Catharine Oertel"
+      ],
+      "keywords": [
+        "Dialog",
+        "Gaze"
+      ],
+      "link": "https://www.aclweb.org/anthology/W13-4029.pdf"
+    },
+    {
+      "title": "Towards Rich Multimodal Behavior in Spoken Dialogues with Embodied Agents",
+      "year": 2013,
+      "authors": [
+        "Samer Al Moubayed"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://ieeexplore.ieee.org/document/6719212"
+    },
+    {
+      "title": "Techniques for Real-time Multi-person Face Tracking for Human-robot Dialogue",
+      "year": 2013,
+      "authors": [],
+      "keywords": [
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:832158/FULLTEXT01.pdf"
+    },
+    {
+      "title": "User feedback in human-robot interaction: Prosody, gaze and timing",
+      "year": 2013,
+      "authors": [
+        "Gabriel Skantze",
+        "Catharine Oertel",
+        "Anna Hjalmarsson"
+      ],
+      "keywords": [
+        "Dialog",
+        "TTS"
+      ],
+      "link": "https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_1901.pdf"
+    },
+    {
+      "title": "Children and adults in dialogue with the robot head Furhat – corups collection and initial analysis",
+      "year": 2012,
+      "authors": [
+        "Mats Blomberg",
+        "Gabriel Skantze",
+        "Samer Al Moubayed",
+        "Joakim Gustafson",
+        "Jonas Beskow",
+        "Björn Granström"
+      ],
+      "keywords": [
+        "Children",
+        "Corpus",
+        "HRI",
+        "Multi-Party"
+      ],
+      "link": "https://www.isca-speech.org/archive/wocci_2012/papers/wc12_087.pdf"
+    },
+    {
+      "title": "Furhat goes to Robotville: A large-scale multiparty human-robot interaction data collection in a public space",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Björn Granström",
+        "Joakim Gustafson",
+        "Nicole Mirnig",
+        "Gabriel Skantze",
+        "Manfred Tscheligi"
+      ],
+      "keywords": [
+        "Corpus",
+        "Dialog",
+        "Multi-Party"
+      ],
+      "link": "https://www.speech.kth.se/~jocke/publications/2012/lrec2012_furhat.pdf"
+    },
+    {
+      "title": "IrisTK: a Statechart-based Toolkit for Multi-party Face-to-face Interaction",
+      "year": 2012,
+      "authors": [
+        "Gabriel Skantze",
+        "Samer Al Moubayed"
+      ],
+      "keywords": [
+        "Dialog",
+        "Multi-Party"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2388676.2388698"
+    },
+    {
+      "title": "Lip-Reading: Furhat Audio Visual Intelligibility of a Back Projected Animated Face",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Gabriel Skantze",
+        "Jonas Beskow"
+      ],
+      "keywords": [
+        "Face",
+        "TTS"
+      ],
+      "link": "https://dl.acm.org/doi/10.1007/978-3-642-33197-8_20"
+    },
+    {
+      "title": "Multimodal Multiparty Social Interaction with the Furhat Head",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Gabriel Skantze",
+        "Jonas Beskow",
+        "Kalin Stefanov",
+        "Joakim Gustafson"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2388676.2388736"
+    },
+    {
+      "title": "Talking with Furhat – multi-party interaction with a back-projected robot head",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Mats Blomberg",
+        "Björn Granström"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A581744&dswid=-9004"
+    },
+    {
+      "title": "Perception of Gaze Direction for Situated Interaction",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Gabriel Skantze"
+      ],
+      "keywords": [
+        "Gaze"
+      ],
+      "link": "https://dl.acm.org/doi/10.1145/2401836.2401839"
+    },
+    {
+      "title": "Furhat: A Back-Projected Human-Like Robot Head for Multiparty Human-Machine Interaction",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed",
+        "Jonas Beskow",
+        "Gabriel Skantze",
+        "Björn Granström"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://link.springer.com/chapter/10.1007/978-3-642-34584-5_9"
+    },
+    {
+      "title": "Bringing the avatar to life: Studies and developments in facial communication for virtual agents and robots",
+      "year": 2012,
+      "authors": [
+        "Samer Al Moubayed"
+      ],
+      "keywords": [
+        "Furhat"
+      ],
+      "link": "https://www.diva-portal.org/smash/get/diva2:571532/FULLTEXT02.pdf"
+    },
+    {
+      "title": "Stereotypical nationality representations in HRI: perspectives from international young adults",
+      "year": 2023,
+      "authors": [
+        "Ronald Cumbal",
+        "Agnes Axelsson",
+        "Shivam Mehta",
+        "Olov Engwall"
+      ],
+      "journal": "Front. Robot. AI, Sec. Human-Robot Interaction",
+      "keywords": [
+        "Stereotypes"
+      ],
+      "link": "https://doi.org/10.3389/frobt.2023.123456"
+    },
+    {
+      "title": "Seeing eye to eye: trustworthy embodiment for task-based conversational agent",
+      "year": 2023,
+      "authors": [
+        "David A. Robb",
+        "José Lopes",
+        "Muneeb I. Ahmad",
+        "Peter E. McKenna",
+        "Xingkun Liu",
+        "Katrin Lohan",
+        "Helen Hastie"
+      ],
+      "journal": "Front. Robot. AI, Sec. Human-Robot Interaction",
+      "keywords": [
+        "Embodiment",
+        "TRUST"
+      ],
+      "link": "https://doi.org/10.3389/frobt.2023.123457"
+    },
+    {
+      "title": "To Err Is Robotic; to Earn Trust, Divine: Comparing ChatGPT and Knowledge Graphs for HRI",
+      "year": 2023,
+      "authors": [
+        "Graham Wilcock",
+        "Kristiina Jokinen"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "TRUST",
+        "LLM",
+        "Dialog",
+        "Knowledge"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123458"
+    },
+    {
+      "title": "Feeding the Coffee Habit: A Longitudinal Study of a Robo-Barista",
+      "year": 2023,
+      "authors": [
+        "Mei Yii Lim",
+        "David A. Robb",
+        "Bruce W. Wilson",
+        "Helen Hastie"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123459"
+    },
+    {
+      "title": "Co-Design of a Robotic Mental Well-Being Coach to Help University Students Manage Public Speaking Anxiety",
+      "year": 2023,
+      "authors": [
+        "Samira Rasouli",
+        "Linda Johnston",
+        "Jennifer Yuen",
+        "Moojan Ghafurian",
+        "Leah Foster",
+        "Kerstin Dautenhahn"
+      ],
+      "journal": "HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction",
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://doi.org/10.1145/123460"
+    },
+    {
+      "title": "Emotionally Specific Backchanneling in Social Human-Robot Interaction",
+      "year": 2023,
+      "authors": [
+        "Pourya Shahverdi",
+        "Katelyn Rousso",
+        "Justin Klotz",
+        "Iman Bakhoda",
+        "Malek Zribi",
+        "Wing-Yue Geoffrey Louie"
+      ],
+      "journal": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "keywords": [
+        "Dialog"
+      ],
+      "link": "https://doi.org/10.1109/iros.2023.123461"
+    },
+    {
+      "title": "Unveiling the Learning Curve: Enhancing Transparency in Robot’s Learning with Inner Speech and Emotions",
+      "year": 2023,
+      "authors": [
+        "Georgios Angelopoulos",
+        "Carmine Di Martino",
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123462"
+    },
+    {
+      "title": "Indirect Politeness of Disconfirming Answers to Humans and Robots",
+      "year": 2023,
+      "authors": [
+        "Eleonore Lumer",
+        "Clara Lachenmaier",
+        "Sina Zarrieß",
+        "Hendrik Buschmeier"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "HRI",
+        "Dialog"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123463"
+    },
+    {
+      "title": "Come Closer: The Effects of Robot Personality on Human Proxemics Behaviours",
+      "year": 2023,
+      "authors": [
+        "Meriam Moujahid",
+        "David A. Robb",
+        "Christian Dondrup",
+        "Helen Hastie"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123464"
+    },
+    {
+      "title": "Evaluating People’s Perception of Trust of a Deceptive Robot with Theory of Mind in an Assistive Gaming Scenario",
+      "year": 2023,
+      "authors": [
+        "Alessandra Rossi",
+        "Silvia Rossi"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123465"
+    },
+    {
+      "title": "No One is an Island – Investigating the Need for Social Robots (and Researchers) to Handle Multi-Party Interactions in Public Space",
+      "year": 2023,
+      "authors": [
+        "Ana Müller",
+        "Anja Richert"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "HRI",
+        "Multiparty"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123466"
+    },
+    {
+      "title": "Prototypes of a Migrating Receptionist in Physical and Virtual Space",
+      "year": 2023,
+      "authors": [
+        "Emma Mainza Chilufya",
+        "Mattias Arvola",
+        "Tom Ziemke"
+      ],
+      "journal": "IVA '23: Proceedings of the 23rd ACM International Conference on Intelligent Virtual Agents",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.1145/123467"
+    },
+    {
+      "title": "Personality-Adapted Language Generation for Social Robots",
+      "year": 2023,
+      "authors": [
+        "Alessio Galatolo",
+        "Iolanda Leite",
+        "Katie Winkle"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "Speech",
+        "Dialog"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123468"
+    },
+    {
+      "title": "That’s not a Good Idea: A Robot Changes Your Behavior Against Social Engineering",
+      "year": 2023,
+      "authors": [
+        "Dario Pasquali",
+        "Austin Kothig",
+        "Alexander Mois Aroyo",
+        "John Edison Muñoz Cadorna",
+        "Kerstin Dautenhahn",
+        "Stefano Bencetti",
+        "Rea Francesco",
+        "Alessandra Sciutti"
+      ],
+      "journal": "HAI '23: Proceedings of the 11th International Conference on Human-Agent Interaction",
+      "keywords": [
+        "HRI",
+        "Other"
+      ],
+      "link": "https://doi.org/10.1145/123469"
+    },
+    {
+      "title": "Data-Driven Generation of Eyes and Head Movements of a Social Robot in Multiparty Conversation",
+      "year": 2023,
+      "authors": [
+        "Léa Haefflinger",
+        "Frédéric Elisei",
+        "Béatrice Bouchot",
+        "Brice Varini",
+        "Gérard Bailly"
+      ],
+      "journal": "International Conference on Social Robotics ICSR 2023: Social Robotics",
+      "keywords": [
+        "Gaze"
+      ],
+      "link": "https://doi.org/10.1109/icsr.2023.123470"
+    },
+    {
+      "title": "Robot-mediated Job Interview Training for Individuals with ASD: A Pilot Study",
+      "year": 2023,
+      "authors": [
+        "Pourya Shahverdi",
+        "Katelyn Rousso",
+        "Iman Bakhoda",
+        "Nathan Huang",
+        "Kristin Rohrbeck",
+        "Wing-Yue Geoffrey Louie"
+      ],
+      "journal": "32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "keywords": [
+        "Training"
+      ],
+      "link": "https://doi.org/10.1109/roman.2023.123471"
+    },
+    {
+      "title": "Contextual Coaching: Support for Well-being based on Environmental Sensor Information and Conversational AI",
+      "year": 2023,
+      "authors": [
+        "Kristiina Jokinen"
+      ],
+      "journal": "37th Annual Conference of the Japanese Society for Artificial Intelligence, 2023",
+      "keywords": [
+        "HRI",
+        "Training",
+        "Dialog"
+      ],
+      "link": "https://doi.org/10.1109/jsai.2023.123472"
+    },
+    {
+      "title": "Limitations of Audiovisual Speech on Robots for Second Language Pronunciation Learning",
+      "year": 2023,
+      "authors": [
+        "Saya Amioka",
+        "Ruben Janssens",
+        "Pieter Wolfert",
+        "Qiaoqiao Ren",
+        "Maria Jose Pinto Bernal",
+        "Tony Belpaeme"
+      ],
+      "journal": "HRI '23: Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction",
+      "keywords": [
+        "Speech"
+      ],
+      "link": "https://doi.org/10.1109/hri.2023.123473"
+    },
+    {
+      "title": "Socio-cultural perception of robot backchannels",
+      "year": 2023,
+      "authors": [
+        "Olov Engwall",
+        "Ronald Cumbal",
+        "Ali Reza Majlesi"
+      ],
+      "journal": "Frontiers in Robotics and AI",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.3389/frobt.2023.123474"
+    },
+    {
+      "title": "Is there room for high tech in a high touch industry? An exploratory study on adoption of social robots in the hotel industry",
+      "year": 2023,
+      "authors": [
+        "Emelie Dellby Svensk",
+        "Kajsa Jernetz"
+      ],
+      "journal": "Master's Thesis",
+      "keywords": [
+        "HRI"
+      ],
+      "link": "https://doi.org/10.1109/htsr.2023.123475"
+    }
+  ]
+}
